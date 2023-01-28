@@ -1,46 +1,99 @@
+import glob, time, pickle, os
+
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
+# config
+data_path = './input'
+data_cache_path = './data_cache.pkl'
+models_path = './models/large_new' # models_100 is testing dump
+
 # hyperparameters
-batch_size = 64 # how many independent sequences will we process in parallel?
+
+batch_size = 128 # how many independent sequences will we process in parallel?
 block_size = 256 # what is the maximum context length for predictions?
-max_iters = 5000
-eval_interval = 500
-learning_rate = 3e-4
+eval_interval = 1000 # how often to evaluate the model on train and val sets
+
+# batch_size = 32 # how many independent sequences will we process in parallel?
+# block_size = 128 # what is the maximum context length for predictions?
+# eval_interval = 100 # how often to evaluate the model on train and val sets
+
+max_iters = 10000
+learning_rate = 3e-4 # 3e-4 is the default in the original paper 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
-eval_iters = 200
-n_embd = 384
-n_head = 6
-n_layer = 6
-dropout = 0.2
+eval_iters = 30 # how many batches to use for evaluation
+n_embd = 420 # embedding size (dimensionality of the hidden state)
+n_head = 6 # number of heads in multi-head attention in pytorch
+n_layer = 6 # number of layers in the transformer model
+dropout = 0.2 # dropout rate (probability of zeroing out activations)
 # ------------
 
 torch.manual_seed(1337)
 
-# wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
-with open('input.txt', 'r', encoding='utf-8') as f:
-    text = f.read()
+def read_data(path):
+    # load all txt files from path
+    files = glob.glob(path + '/*.txt')
+    train_data = ""
+    val_data = ""
+    for f in files:
+        with open(f, 'r', encoding='utf-8') as fp:
+            text = fp.read()
+            # split into train and val
+            n = int(0.9*len(text)) # first 90% will be train, rest val
+            train_data += text[:n]
+            val_data += text[n:]
+    
+    text = train_data + val_data
+    # here are all the unique characters that occur in this text
+    chars = sorted(list(set(text)))
+    vocab_size = len(chars)
 
-# here are all the unique characters that occur in this text
-chars = sorted(list(set(text)))
-vocab_size = len(chars)
-# create a mapping from characters to integers
-stoi = { ch:i for i,ch in enumerate(chars) }
-itos = { i:ch for i,ch in enumerate(chars) }
+    # create a mapping from characters to integers
+    stoi = { ch:i for i,ch in enumerate(chars) }
+    itos = { i:ch for i,ch in enumerate(chars) }
+    encode = lambda s: [stoi[c] for c in s] # encoder: take a string, output a list of integers
+    # decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
+
+    # Train and test splits
+    
+    data = torch.tensor(encode(text), dtype=torch.long)
+    n = int(0.9*len(data)) # first 90% will be train, rest val
+    train_data = data[:n]
+    val_data = data[n:]
+    return {"train_data": train_data, "val_data": val_data, "vocab_size": vocab_size, "stoi": stoi, "itos": itos}
+
+loadt1 = time.time()
+if os.path.isfile(data_cache_path):
+    with open(data_cache_path, 'rb') as fp:
+        data = pickle.load(fp)
+        print("pickle", end=" ")
+else:
+    data = read_data(data_path)
+    with open(data_cache_path, 'wb') as fp:
+        pickle.dump(data, fp)
+        print("txt", end=" ")
+
+loadt2 = time.time()
+print(f"data load time: {loadt2-loadt1:.2f} seconds")
+
+vocab_size = data["vocab_size"]
+stoi = data["stoi"]
+itos = data["itos"]
+
 encode = lambda s: [stoi[c] for c in s] # encoder: take a string, output a list of integers
 decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
 
-# Train and test splits
-data = torch.tensor(encode(text), dtype=torch.long)
-n = int(0.9*len(data)) # first 90% will be train, rest val
-train_data = data[:n]
-val_data = data[n:]
+inputdata = { 'train': data["train_data"], 'val': data["val_data"] }
+print("train:", len(inputdata["train"]), "val:", len(inputdata["val"]), "vocab:", vocab_size)
+
+model = None
+m = None
 
 # data loading
-def get_batch(split):
+def get_batch(data):
     # generate a small batch of data of inputs x and targets y
-    data = train_data if split == 'train' else val_data
+    #data = train_data if split == 'train' else val_data
     ix = torch.randint(len(data) - block_size, (batch_size,))
     x = torch.stack([data[i:i+block_size] for i in ix])
     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
@@ -49,12 +102,13 @@ def get_batch(split):
 
 @torch.no_grad()
 def estimate_loss():
+    global model, m
     out = {}
     model.eval()
     for split in ['train', 'val']:
         losses = torch.zeros(eval_iters)
         for k in range(eval_iters):
-            X, Y = get_batch(split)
+            X, Y = get_batch(inputdata[split])
             logits, loss = model(X, Y)
             losses[k] = loss.item()
         out[split] = losses.mean()
@@ -184,30 +238,7 @@ class BigramLanguageModel(nn.Module):
         return idx
 
 model = BigramLanguageModel()
-m = model.to(device)
+m = model.half().to(device)
+
 # print the number of parameters in the model
 print(sum(p.numel() for p in m.parameters())/1e6, 'M parameters')
-
-# create a PyTorch optimizer
-optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
-
-for iter in range(max_iters):
-
-    # every once in a while evaluate the loss on train and val sets
-    if iter % eval_interval == 0 or iter == max_iters - 1:
-        losses = estimate_loss()
-        print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
-
-    # sample a batch of data
-    xb, yb = get_batch('train')
-
-    # evaluate the loss
-    logits, loss = model(xb, yb)
-    optimizer.zero_grad(set_to_none=True)
-    loss.backward()
-    optimizer.step()
-
-# generate from the model
-context = torch.zeros((1, 1), dtype=torch.long, device=device)
-print(decode(m.generate(context, max_new_tokens=500)[0].tolist()))
-#open('more.txt', 'w').write(decode(m.generate(context, max_new_tokens=10000)[0].tolist()))
