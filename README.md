@@ -1,7 +1,7 @@
 # Simple GPT Implementation
 
 A simple example for implementing a Generative Pre-trained Transformer with pytorch.
-The entire code for the model is taken from (Andrej Karpathy's video course "Neural Networks: Zero to Hero")[https://www.youtube.com/watch?v=kCc8FmEb1nY], forked from https://github.com/karpathy/ng-video-lecture
+The entire code for the model is taken from [Andrej Karpathy's video course Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=kCc8FmEb1nY), forked from https://github.com/karpathy/ng-video-lecture
 The original contents of the README.md file are preserved at the bottom of this document.
 
 ## Setup for NVIDIA GPUs
@@ -18,7 +18,14 @@ To start training, execute train.py
 
     python train.py
 
-The resulting model will be saved to /models/model.pt
+The resulting model will be saved to /models/model/model-last.pt after every evaluation.
+
+## Generating something from the network
+
+To perform sentence completion using the trained network, run
+
+    python generate.py
+
 
 # nanogpt-lecture
 

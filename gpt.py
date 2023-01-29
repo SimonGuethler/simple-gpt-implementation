@@ -7,7 +7,7 @@ from torch.nn import functional as F
 # config
 data_path = './input'
 data_cache_path = './data_cache.pkl'
-models_path = './models/large_new' # models_100 is testing dump
+models_path = './models/model'
 
 # hyperparameters
 
