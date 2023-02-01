@@ -222,7 +222,14 @@ class BigramLanguageModel(nn.Module):
 
         return logits, loss
 
-    def generate(self, idx, max_new_tokens):
+    def top_k_logits(logits, k):
+        if k == 0:
+            return logits
+        values, _ = torch.topk(logits, k)
+        min_values = values[:, -1]
+        return torch.where(logits < min_values, torch.ones_like(logits, dtype=logits.dtype) * -1e10, logits)
+        
+    def generate(self, idx, max_new_tokens, temperature: float = 1.0, top_k: int = 0):
         # idx is (B, T) array of indices in the current context
         for _ in range(max_new_tokens):
             # crop idx to the last block_size tokens
@@ -230,7 +237,9 @@ class BigramLanguageModel(nn.Module):
             # get the predictions
             logits, loss = self(idx_cond)
             # focus only on the last time step
-            logits = logits[:, -1, :] # becomes (B, C)
+            logits = logits[:, -1, :] / temperature # becomes (B, C)
+            # apply top-k sampling
+            # logits = self.top_k_logits(logits, k=top_k)
             # apply softmax to get probabilities
             probs = F.softmax(logits, dim=-1) # (B, C)
             # sample from the distribution
