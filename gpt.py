@@ -4,6 +4,8 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
+from char_filter import char_filter
+
 # config
 data_path = './input'
 data_cache_path = './data_cache.pkl'
@@ -26,18 +28,24 @@ dropout = 0.2 # dropout rate (probability of zeroing out activations)
 
 torch.manual_seed(1337)
 
+char_filter_list = None
+def sanitize_text(text: str):
+    # remove all non-latin characters except for braces and spaces
+    text = ''.join([c for c in text if c in char_filter_list])
+    text.replace("()", "").replace("[]", "").replace("{}", "").replace("<>", "").replace("  ", " ")
+    return text
+
 def read_data(path):
-    # load all txt files from path
-    files = glob.glob(path + '/*.txt')
+    global char_filter_list
+    char_filter_list, files = char_filter(path)
     train_data = ""
     val_data = ""
-    for f in files:
-        with open(f, 'r', encoding='utf-8') as fp:
-            text = fp.read()
-            # split into train and val
-            n = int(0.9*len(text)) # first 90% will be train, rest val
-            train_data += text[:n]
-            val_data += text[n:]
+    for text in files:
+        text = sanitize_text(text)
+        # split into train and val
+        n = int(0.9*len(text)) # first 90% will be train, rest val
+        train_data += text[:n]
+        val_data += text[n:]
     
     text = train_data + val_data
     # here are all the unique characters that occur in this text
@@ -88,7 +96,6 @@ m = None
 # data loading
 def get_batch(data):
     # generate a small batch of data of inputs x and targets y
-    #data = train_data if split == 'train' else val_data
     ix = torch.randint(len(data) - block_size, (batch_size,))
     x = torch.stack([data[i:i+block_size] for i in ix])
     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
