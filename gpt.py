@@ -11,14 +11,9 @@ models_path = './models/model'
 
 # hyperparameters
 
-batch_size = 128 # how many independent sequences will we process in parallel?
+batch_size = 64 # how many independent sequences will we process in parallel?
 block_size = 256 # what is the maximum context length for predictions?
 eval_interval = 1000 # how often to evaluate the model on train and val sets
-
-# batch_size = 32 # how many independent sequences will we process in parallel?
-# block_size = 128 # what is the maximum context length for predictions?
-# eval_interval = 100 # how often to evaluate the model on train and val sets
-
 max_iters = 10000
 learning_rate = 3e-4 # 3e-4 is the default in the original paper 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -238,7 +233,8 @@ class BigramLanguageModel(nn.Module):
         return idx
 
 model = BigramLanguageModel()
-m = model.half().to(device)
+#m = model.half().to(device) # for fp16
+m = model.to(device)
 
 # print the number of parameters in the model
 print(sum(p.numel() for p in m.parameters())/1e6, 'M parameters')
