@@ -38,7 +38,7 @@ for iter in range(max_iters):
         
         torch.save(model.state_dict(), os.path.join(models_path, "model-last.pt"))
         t3 = time.time()
-        print(f"evaluation took {t2-t1:.2f} seconds. model saved in {t3-t2:.2f} seconds. Total time wasted training: {(time.time()-t0)/60:.2f} minutes.")
+        print(f"evaluation took {t2-t1:.2f} seconds. model saved in {t3-t2:.2f} seconds. Total time wasted training: {(time.time()-t0)/60:.2f} minutes. ({(time.time()-t0)/60/60*650/1000:.3f} kWh used)")
 
     # sample a batch of data
     xb, yb = get_batch(inputdata['train'])

@@ -30,17 +30,24 @@ torch.manual_seed(1337)
 
 char_filter_list = None
 def sanitize_text(text: str):
-    # remove all non-latin characters except for braces and spaces
+def sanitize_text(text: str) -> str:
     text = ''.join([c for c in text if c in char_filter_list])
     text.replace("()", "").replace("[]", "").replace("{}", "").replace("<>", "").replace("  ", " ")
     return text
 
-def read_data(path):
+def read_data(path: str) -> dict:
+    """Reads data from path, splits into train and val, and returns a dictionary with the following keys:
+    train_data: tensor of integers representing the training data
+    val_data: tensor of integers representing the validation data
+    vocab_size: number of unique characters in the data
+    stoi: dictionary mapping characters to integers
+    itos: dictionary mapping integers to characters
+    """
     global char_filter_list
-    char_filter_list, files = char_filter(path)
+    char_filter_list, texts = char_filter(path)
     train_data = ""
     val_data = ""
-    for text in files:
+    for text in texts:
         text = sanitize_text(text)
         # split into train and val
         n = int(0.9*len(text)) # first 90% will be train, rest val
@@ -59,7 +66,6 @@ def read_data(path):
     # decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
 
     # Train and test splits
-    
     data = torch.tensor(encode(text), dtype=torch.long)
     n = int(0.9*len(data)) # first 90% will be train, rest val
     train_data = data[:n]
