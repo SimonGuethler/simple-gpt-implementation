@@ -11,7 +11,8 @@ optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 if not os.path.isdir(models_path):
     os.makedirs(models_path) 
 
-last_losses = None
+t0 = time.time()
+best_score = None
 for iter in range(max_iters):
     #with torch.autocast(device_type='cuda', dtype=torch.float16): # for fp16
     # every once in a while evaluate the loss on train and val sets
@@ -19,21 +20,25 @@ for iter in range(max_iters):
 
         t1 = time.time()
         # with torch.autocast(device_type='cuda', dtype=torch.float16): # for fp16?
-        losses = estimate_loss()
+        score = estimate_loss()
         t2 = time.time()
 
-        if last_losses is None:
-            last_losses = losses
+        if best_score is None:
+            best_score = score
         
-        print(f"step {iter:04f}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
+        print(f"step {iter}: train loss {score['train']:.4f}, val loss {score['val']:.4f}")
         
-        if losses["train"] < last_losses["train"]:
+        if score["train"] < best_score["train"]:
             torch.save(model.state_dict(), os.path.join(models_path, "model-best-train.pt"))
-        if losses["val"] < last_losses["val"]:
+            best_score["train"] = score["train"]
+        
+        if score["val"] < best_score["val"]:
             torch.save(model.state_dict(), os.path.join(models_path, "model-best-val.pt"))
+            best_score["val"] = score["val"]
+        
         torch.save(model.state_dict(), os.path.join(models_path, "model-last.pt"))
         t3 = time.time()
-        print(f"evaluation took {t2-t1:.3f} seconds. model saved in {t3-t2:.3f} seconds.")
+        print(f"evaluation took {t2-t1:.2f} seconds. model saved in {t3-t2:.2f} seconds. Total time wasted training: {(time.time()-t0)/60:.2f} minutes.")
 
     # sample a batch of data
     xb, yb = get_batch(inputdata['train'])
