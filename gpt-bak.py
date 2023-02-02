@@ -1,107 +1,77 @@
-import glob, time, pickle, os
+import glob, random
 
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
-from char_filter import char_filter
-
-# config
-data_path = './input_wiki_animal'
-data_cache_path = './cache_wiki_animal_610-32.pkl'
-models_path = './models/model_wiki_animal_610-32'
 
 # hyperparameters
-
-batch_size = 32 # how many independent sequences will we process in parallel?
+batch_size = 128 # how many independent sequences will we process in parallel?
 block_size = 256 # what is the maximum context length for predictions?
-eval_interval = 1000 # how often to evaluate the model on train and val sets
-max_iters = 100000
-learning_rate = 3e-4 # 3e-4 is the default in the original paper 
+max_iters = 10000
+eval_interval = 1000
+learning_rate = 3e-4
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
-eval_iters = 60 # how many batches to use for evaluation
-n_embd = 720 # embedding size (dimensionality of the hidden state)
-n_head = 10 # number of heads in multi-head attention in pytorch
-n_layer = 10 # number of layers in the transformer model
-dropout = 0.2 # dropout rate (probability of zeroing out activations)
+eval_iters = 200
+n_embd = 420
+n_head = 6 # number of heads in multi-head attention in pytorch
+n_layer = 6
+dropout = 0.2
 # ------------
 
 torch.manual_seed(1337)
 
-char_filter_list = None
-def sanitize_text(text: str) -> str:
-    """Removes all characters except for ones in char_filter_list, which gets set in read_data()"""
-    text = ''.join([c for c in text if c in char_filter_list])
-    text.replace("()", "").replace("[]", "").replace("{}", "").replace("<>", "").replace("  ", " ")
-    return text
-
-def read_data(path: str) -> dict:
-    """Reads data from path, splits into train and val, and returns a dictionary with the following keys:
-    train_data: tensor of integers representing the training data
-    val_data: tensor of integers representing the validation data
-    vocab_size: number of unique characters in the data
-    stoi: dictionary mapping characters to integers
-    itos: dictionary mapping integers to characters
-    """
-    global char_filter_list
-    char_filter_list, texts = char_filter(path)
+def read_data(path):
+    # load all txt files from path
+    files = glob.glob(path + '/*.txt')
     train_data = ""
     val_data = ""
-    for text in texts:
-        text = sanitize_text(text)
-        # split into train and val
-        n = int(0.9*len(text)) # first 90% will be train, rest val
-        train_data += text[:n]
-        val_data += text[n:]
+    for f in files:
+        with open(f, 'r', encoding='utf-8') as fp:
+            # text: str = fp.read()
+            # length = len(text)
+            # lines = text.splitlines()
+            # val_length = int(0.1*length) # 10%+ of text from the lower half be used for validation
+            # pos = int(len(lines)*0.75)
+            # while len(val_data) < val_length:
+            #     tmp = lines[pos]
+            #     print(tmp)
+            #     del lines[pos]
+            #     val_data += tmp + "\n"
+            
+            # train_data = "\n".join(lines)
     
+    # train_data_len = len(train_data)
+    # val_data_len = len(val_data)
+    # ratio = val_data_len / train_data_len
+    # print("train data length:", train_data_len, "val data length:", val_data_len, "ratio:", ratio)
+
     text = train_data + val_data
     # here are all the unique characters that occur in this text
     chars = sorted(list(set(text)))
     vocab_size = len(chars)
-
     # create a mapping from characters to integers
     stoi = { ch:i for i,ch in enumerate(chars) }
     itos = { i:ch for i,ch in enumerate(chars) }
     encode = lambda s: [stoi[c] for c in s] # encoder: take a string, output a list of integers
-    # decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
+    decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
 
     # Train and test splits
     data = torch.tensor(encode(text), dtype=torch.long)
-    n = int(0.9*len(data)) # first 90% will be train, rest val
+    n = int(ratio*len(data))
     train_data = data[:n]
     val_data = data[n:]
-    return {"train_data": train_data, "val_data": val_data, "vocab_size": vocab_size, "stoi": stoi, "itos": itos}
+    return train_data, val_data, vocab_size
 
-loadt1 = time.time()
-if os.path.isfile(data_cache_path):
-    with open(data_cache_path, 'rb') as fp:
-        data = pickle.load(fp)
-        print("pickle", end=" ")
-else:
-    data = read_data(data_path)
-    with open(data_cache_path, 'wb') as fp:
-        pickle.dump(data, fp)
-        print("txt", end=" ")
-
-loadt2 = time.time()
-print(f"data load time: {loadt2-loadt1:.2f} seconds")
-
-vocab_size = data["vocab_size"]
-stoi = data["stoi"]
-itos = data["itos"]
-
-encode = lambda s: [stoi[c] for c in s] # encoder: take a string, output a list of integers
-decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
-
-inputdata = { 'train': data["train_data"], 'val': data["val_data"] }
-print("train:", len(inputdata["train"]), "val:", len(inputdata["val"]), "vocab:", vocab_size)
-
+train_data, val_data, vocab_size = read_data('./input')
+inputdata = { 'train': train_data, 'val': val_data }
+print("train:", len(train_data), "val:", len(val_data), "vocab:", vocab_size)
 model = None
-m = None
 
 # data loading
 def get_batch(data):
     # generate a small batch of data of inputs x and targets y
+    #data = train_data if split == 'train' else val_data
     ix = torch.randint(len(data) - block_size, (batch_size,))
     x = torch.stack([data[i:i+block_size] for i in ix])
     y = torch.stack([data[i+1:i+block_size+1] for i in ix])
@@ -110,7 +80,7 @@ def get_batch(data):
 
 @torch.no_grad()
 def estimate_loss():
-    global model, m
+    global model
     out = {}
     model.eval()
     for split in ['train', 'val']:
@@ -140,7 +110,7 @@ class Head(nn.Module):
         k = self.key(x)   # (B,T,C)
         q = self.query(x) # (B,T,C)
         # compute attention scores ("affinities")
-        wei = q @ k.transpose(-2,-1) * k.shape[-1]**-0.5 # (B, T, C) @ (B, C, T) -> (B, T, T)
+        wei = q @ k.transpose(-2,-1) * C**-0.5 # (B, T, C) @ (B, C, T) -> (B, T, T)
         wei = wei.masked_fill(self.tril[:T, :T] == 0, float('-inf')) # (B, T, T)
         wei = F.softmax(wei, dim=-1) # (B, T, T)
         wei = self.dropout(wei)
@@ -195,7 +165,8 @@ class Block(nn.Module):
         x = x + self.ffwd(self.ln2(x))
         return x
 
-class GPTLanguageModel(nn.Module):
+# super simple bigram model
+class BigramLanguageModel(nn.Module):
 
     def __init__(self):
         super().__init__()
@@ -227,14 +198,7 @@ class GPTLanguageModel(nn.Module):
 
         return logits, loss
 
-    def top_k_logits(logits, k):
-        if k == 0:
-            return logits
-        values, _ = torch.topk(logits, k)
-        min_values = values[:, -1]
-        return torch.where(logits < min_values, torch.ones_like(logits, dtype=logits.dtype) * -1e10, logits)
-        
-    def generate(self, idx, max_new_tokens, temperature: float = 1.0, top_k: int = 0):
+    def generate(self, idx, max_new_tokens):
         # idx is (B, T) array of indices in the current context
         for _ in range(max_new_tokens):
             # crop idx to the last block_size tokens
@@ -242,9 +206,7 @@ class GPTLanguageModel(nn.Module):
             # get the predictions
             logits, loss = self(idx_cond)
             # focus only on the last time step
-            logits = logits[:, -1, :] / temperature # becomes (B, C)
-            # apply top-k sampling
-            # logits = self.top_k_logits(logits, k=top_k)
+            logits = logits[:, -1, :] # becomes (B, C)
             # apply softmax to get probabilities
             probs = F.softmax(logits, dim=-1) # (B, C)
             # sample from the distribution
@@ -253,8 +215,7 @@ class GPTLanguageModel(nn.Module):
             idx = torch.cat((idx, idx_next), dim=1) # (B, T+1)
         return idx
 
-#m = model.half().to(device) # for fp16
-model = GPTLanguageModel()
+model = BigramLanguageModel()
 m = model.to(device)
 
 # print the number of parameters in the model

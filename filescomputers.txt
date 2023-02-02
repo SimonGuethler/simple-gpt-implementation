@@ -1,0 +1,391 @@
+K:\TEMP_QVO\datasets\wiki_top50k\Computer_idc3313ff1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of personal computers_idc6f5b08a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Personal computer_id13feae1c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of computing hardware_id976ef269.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer graphics_id229b3347.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer science_idf1363031.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Supercomputer_idcdfdc4f8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Analog computer_idda4ed506.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Women in computing_idb0917926.txt
+K:\TEMP_QVO\datasets\wiki_top50k\PC game_id1cd3f49a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Quantum computing_id40680d92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Operating system_id0c12ab9f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\TRS-80_idc400f16e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer security_ida29218fb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\OK Computer_id75b1716c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer engineering_id35fe04fb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer hardware_idf4c505e7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer virus_idc81845fb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Digital Equipment Corporation_id8ed228c8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lenovo_id8d4dc298.txt
+K:\TEMP_QVO\datasets\wiki_top50k\ZX81_id512123ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Parallel computing_id5aac7114.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer animation_id165d25b6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Commodore 64_id640a0515.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Simulation_id83700874.txt
+K:\TEMP_QVO\datasets\wiki_top50k\IBM PC compatible_id19e57354.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Micro Instrumentation and Telemetry Systems_idb8a6b8a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\PC-9800 series_id498322ff.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Booting_id92a8ee17.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Educational technology_id7b86cb32.txt
+K:\TEMP_QVO\datasets\wiki_top50k\BBC Micro_idcec1d10e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer literacy_id7dec0100.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer cluster_id506fcc5d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Atari 8-bit family_idbec082da.txt
+K:\TEMP_QVO\datasets\wiki_top50k\BASIC_idc841175e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer program_id7d82f6e7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Steve Jobs_id75a0b207.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Commodore International_id9949e8e3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\iMac G3_id263ef3cf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\MIDI_id91227702.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer Space_id14dc36db.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer file_idee668ffc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer architecture_id8ca33ce1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer mouse_id332b8464.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Phantasmagoria (video game)_idf6de45c7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Minicomputer_id2bddf97a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Intel_id82eb257b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Desktop computer_id6fb20862.txt
+K:\TEMP_QVO\datasets\wiki_top50k\TOP500_id4aafb6d1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Role-playing video game_id97457d71.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Compaq_id0fa41fcf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of the Internet_idab97d33a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cybercrime_id74993a43.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Spacewar_id4337ab7a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\An Open Letter to Hobbyists_ida884f0c3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\NeXT_idcff9cb50.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Laptop_id018d3042.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Theoretical computer science_id1fe32d0b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Steve Wozniak_idaf44cf89.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Power supply unit (computer)_idd6b64176.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Decompression practice_id79401583.txt
+K:\TEMP_QVO\datasets\wiki_top50k\IBM Personal Computer_id31146424.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Security hacker_id38e80bc1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Microprocessor_idcfc0c9ac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Quantum supremacy_idca35ef1b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brain_computer interface_idcb362628.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer keyboard_id659d4f76.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wang Laboratories_id6d19b9c7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hacker_idf1d613f3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dell_id74477a39.txt
+K:\TEMP_QVO\datasets\wiki_top50k\MSX_id52d5cae8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer network_ide34f9e26.txt
+K:\TEMP_QVO\datasets\wiki_top50k\VIC-20_ide741e2b2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Digital forensics_id22e38f6e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hewlett-Packard_idcca7da4b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Antivirus software_id6b4a812a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\CP_M_id217115f9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Atari, Inc._ide7ce31ce.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Donald Knuth_ide0892f9c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Central processing unit_idc0b58ab0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cray_id4c88a09f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Emulator_id1ff2ec5b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer data storage_id134c45de.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Spyware_idaa1b416a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Malware_id95b380b1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Altair 8800_id4c567951.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chinese room_idc3d88918.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apple Inc._id939b7248.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Atari ST_idbd4625c0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer monitor_idd3b216ad.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer-generated imagery_id478756f4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\John von Neumann_id832b79f0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mainframe computer_id033ab414.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Internet_id5cb5e824.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of Eastern role-playing video games_id3dd87a46.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apple II_id874c6dd7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer simulation_id50624675.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Electronic music_id2b8f8409.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Video game_id79047d58.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Augmented reality_id9cb13f8f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Adventure game_id1972ce4f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\USB flash drive_id8b1654d2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer and network surveillance_idd15d723d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bus (computing)_id65d37f70.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Turing test_id7f38dc2d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Keyboard layout_id05aef707.txt
+K:\TEMP_QVO\datasets\wiki_top50k\ARPANET_id671461fe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Amstrad CPC_idbcf110ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\3D computer graphics_id1ec1a512.txt
+K:\TEMP_QVO\datasets\wiki_top50k\ENIAC_idab306998.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Distributed computing_id4faf193e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Amiga_id779613aa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cyberattack_id8eb39828.txt
+K:\TEMP_QVO\datasets\wiki_top50k\FLOPS_idd2b3f281.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Icon (computing)_id706ee0ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Music sequencer_id83d21e59.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apple IIGS_id9948ace8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of artificial intelligence_id0e4fd743.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apple II series_id140749d2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Automation_id152cc680.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Information technology_idd578d5da.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ray Kurzweil_id4ae57ed5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pixar_id73efb2dc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tablet computer_id163fd314.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Endianness_id409a5af6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Floppy disk_id183aa4af.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chess_id36f3809a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\APL (programming language)_id02f1b163.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tetris_id7f1f7cb7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mac (computer)_id767067d1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer worm_idef4f2883.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Edsger W. Dijkstra_id414975c7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Global surveillance disclosures (2013_present)_idf13a1382.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Windows 2000_idabe34d2e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Power Mac G4 Cube_id01bb1c42.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Halt and Catch Fire (TV series)_id6e58a385.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Spreadsheet_id3f47117b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Roguelike_id061f113b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Von Neumann architecture_id92e603ad.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Client_server model_idd9cebed8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\RISC-V_idcda6550b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\IBM Selectric typewriter_idddbbd537.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Reduced instruction set computer_idd961898d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pool of Radiance_id3fd5be24.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Artificial general intelligence_ide7b7e3f1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Zilog Z80_id06a0a280.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Manchester Baby_id34feb9ac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\ZX Spectrum_id482d6b8f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Traditional animation_ida22b7c94.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Programmer_id30e6952d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bill Gates_id0710dd39.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Quantum algorithm_idb763f217.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Alan Turing_id299b3847.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gary Kildall_id3b600cd6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Folding_home_idd5de2d92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Word processor_idb30d42dc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bulletin board system_idfaf0d664.txt
+K:\TEMP_QVO\datasets\wiki_top50k\IBM_id221aae33.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Douglas Engelbart_ida22c1d6f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Programming language_idd6668f60.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Point of sale_idf7c3c836.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Electrical engineering_id848e9793.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Optical disc drive_ida4bb0c67.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Packet switching_id98acdd91.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Binary prefix_id4dd9ee12.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Colossal Cave Adventure_id7b539111.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Stuxnet_idf258104a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Usage share of operating systems_id4b42eb2e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Toy Story_idc31e1b45.txt
+K:\TEMP_QVO\datasets\wiki_top50k\RS-232_id28a41612.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Raspberry Pi_id908e4a4e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Decompression equipment_id24f99774.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sound card_id92436d70.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ada Lovelace_idd3a859c7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Memory address_id71eda01d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Beauty and the Beast (Disney song)_id4aadd02a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer memory_ide919d217.txt
+K:\TEMP_QVO\datasets\wiki_top50k\IBM System_360_id01eeb4ba.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Commodore PET_id9529289f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\COBOL_id96f16c41.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Turing completeness_id4cc89e20.txt
+K:\TEMP_QVO\datasets\wiki_top50k\USB_id172ef9db.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Microarchitecture_id92c7b495.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Year 2000 problem_id8468f7af.txt
+K:\TEMP_QVO\datasets\wiki_top50k\John Lasseter_id9eccad05.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Algorithm_id396e52b7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Assembly language_id005cc9d3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animation_idb65176cc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Software_id6e9ec403.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Floating-point arithmetic_id1a3ea64b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cathode-ray tube_ide5a48523.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Magnetic-core memory_id9b3ff9c3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\MIPS architecture_id316c3da2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carnegie Mellon University_id87cbf2f6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apollo Guidance Computer_idd1238789.txt
+K:\TEMP_QVO\datasets\wiki_top50k\BIOS_idf3ee9d69.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Embedded system_id32c3621b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computational complexity_ide07eaa62.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mind uploading_idf999ed92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Programmable logic controller_id7d7a2641.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Command-line interface_id64318cf5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer Gaming World_id0be6a7a1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Konrad Zuse_ida599ba7f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kernel (operating system)_id1e1accf1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Virtualization_id2065fc95.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Asus_id0281e553.txt
+K:\TEMP_QVO\datasets\wiki_top50k\RadioShack_ida279dcb7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vault 7_id8ad6be80.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Stored-program computer_idcba8e35f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Parallel ATA_idc62a31d0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Manchester Mark 1_id571b1743.txt
+K:\TEMP_QVO\datasets\wiki_top50k\ThinkPad_idb6ca885e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Solid-state drive_id99ea0c07.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Microsoft_id136b4d31.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Information security_id84478068.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Graphics card_id216849c9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Electronic musical instrument_ide73d6c0b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Women in science_id99f6e271.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Botnet_id27281ff2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ransomware_idb6592b7b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Technological singularity_id08b39170.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer-aided design_id4dba0994.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Grace Hopper_idfc0c95ac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\User interface_id79d14153.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Artificial intelligence in video games_id63d6f0d6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Random-access memory_idf32783ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hard disk drive_ida9b61e44.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Database_idff8ebe39.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cryptography_id2935819c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Visualization (graphics)_id6a18eb31.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Deep Blue (chess computer)_ide5838d63.txt
+K:\TEMP_QVO\datasets\wiki_top50k\x86_id912e3822.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer scientist_idf4a64824.txt
+K:\TEMP_QVO\datasets\wiki_top50k\National Security Agency_id7a33e112.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer programming_id3354df8b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ubuntu_id67b1f4c7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Diablo (video game)_ideb04667b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Green computing_id27da1dbe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Skylab_ide7c6553d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Microcode_ida1c5f877.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Calculator_id77316672.txt
+K:\TEMP_QVO\datasets\wiki_top50k\D-subminiature_idac9ceb87.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Artificial intelligence_id1876d83f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\MOS Technology 6502_id0523b147.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Video game console_idc0835d2b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sony Interactive Entertainment_id3203d5f8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\PDP-11_id90c23fc6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\iPod_idad3038da.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nintendo Entertainment System_id5fa20600.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Firmware_idfb59cd61.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Machine learning_ida24ef8cc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Modem_idd00ed566.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Walt Disney Animation Studios_id58c9d86b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\WannaCry ransomware attack_id23b0246f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\2D computer graphics_idd563771c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Graphical user interface_idc5f6dba8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Indie game_id5f036b1e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\HTTP cookie_idcaedfe44.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kraftwerk_idaaad057f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Instruction pipelining_id44dd3732.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Instruction set architecture_id37005e98.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Integer (computer science)_id5b8ec116.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Silicon Valley_id4d16b1e6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Xerox_ide4df72af.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Internet café_id6ea06111.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ray tracing (graphics)_idf9145c63.txt
+K:\TEMP_QVO\datasets\wiki_top50k\ARM architecture family_idd7dd68c6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\International Space Station_id8b5cc476.txt
+K:\TEMP_QVO\datasets\wiki_top50k\LulzSec_idef30acf3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Doom (1993 video game)_id1541c6f2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Graphics processing unit_id0c89d085.txt
+K:\TEMP_QVO\datasets\wiki_top50k\PlayStation_idf224f31d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Turing machine_id24bc4077.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Telecommunications_id03323bc6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Strategy video game_id07d5dbf4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Group Policy_id8046e0a3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Radiohead_ideba94fde.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cyborg_idd2bb2230.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aaron Swartz_id7069f8a4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Windows NT 3.1_id58e0457d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Disc jockey_idffa9663a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Microsoft PowerPoint_id05454704.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Motion capture_ida2ed15a3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Management information system_id484f8aef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Printer (computing)_id130b1707.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fortran_idb5002a11.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Linux_id0aa68871.txt
+K:\TEMP_QVO\datasets\wiki_top50k\AlphaGo_id968f9e88.txt
+K:\TEMP_QVO\datasets\wiki_top50k\64-bit computing_idde27b7be.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Windows Update_id1a21ab7a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Amiga 500_idffe43f3d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Integrated circuit_id51eaaa09.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Philosophy of mind_idcfbd7be1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Final Fantasy VII_idba6b1e73.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Patriot Act_id97ef4306.txt
+K:\TEMP_QVO\datasets\wiki_top50k\System on a chip_id96c1bcf7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Password_idb364f5b4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\QWERTY_id9fba657b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apple Lisa_id35da97e8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Address Resolution Protocol_id8b4983cd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Robotics_id6a0a5746.txt
+K:\TEMP_QVO\datasets\wiki_top50k\API_id07e346f4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Arm (company)_idf7659c9b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Engineering_id7236c905.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Free software_idc18fe435.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Computer multitasking_id05d64b22.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Information system_id895d2f11.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Motorola 68000 series_ida85b67c2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\SD card_id30aa998e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Graduate Record Examinations_id0d596a9e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\4X_id3a1f4b91.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kid A_idf2c2fc0c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Steam (service)_id0c31e2d3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Alan Kay_id535f1db6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Algorithmic efficiency_id91a779c4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wolfenstein 3D_ide103383c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Motorola 68000_idc63544c7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Virtual memory_idd4eda4b7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\2017 Ukraine ransomware attacks_id35932e40.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Two's complement_id96e49247.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Typeface_id81a12f82.txt
+K:\TEMP_QVO\datasets\wiki_top50k\UEFI_id281e5570.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Garry Kasparov_idf37d892e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Star Trek_ First Contact_ide324c684.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Compiler_idccaaa198.txt
+K:\TEMP_QVO\datasets\wiki_top50k\ASCII_ida4e06563.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Desk_id50a386c2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\End user_idc4fbce44.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ken Thompson_id17014395.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Typesetting_idb5facb4f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Read-only memory_idb2ce9230.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Larry Page_id008de28d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Linux distribution_id3ad67eab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Anthropomorphism_id2dbab9bc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Streaming media_id38f64131.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chromebook_id618668c3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Data center_id4976565b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\PowerPC_id5dcbf20b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Internet privacy_id81109c93.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Communication_iddb4da68e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bit_idffb82f62.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dynamic random-access memory_idc86c0ebf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Server (computing)_idc94f1e5e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fallout (video game)_id1504c2d9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fighting game_id5e75e4c8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\MS-DOS_idb97ae411.txt
+K:\TEMP_QVO\datasets\wiki_top50k\IBM Watson_idb09b1935.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Paul Allen_id0ed0c8c4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Warcraft II_ Tides of Darkness_id76851b94.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Macintosh Classic_idf078f66b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\NEC_idd1b77c49.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Display resolution_id8804901e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Trusted Platform Module_idb25d776a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tennis for Two_id936e4c84.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Richard Stallman_id35f35296.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Keyboard technology_id975530cd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Russian interference in the 2016 United States ele_id3a1ad5c6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Input_output_idabdd9055.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Interpreter (computing)_id9b038fd2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Function (computer programming)_idb1d6c589.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pointer (computer programming)_id903701b5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Linux range of use_idfb8b89f1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Conficker_ide611c853.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Herbert A. Simon_id174c7468.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Digital audio workstation_id798e04da.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Library (computing)_id1e2613ef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\PostScript_idf3c8eac2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Margaret Hamilton (software engineer)_id9f4efe90.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sony_id7665fb3a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Netbook_id226537de.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sun Microsystems_id4b718dc5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Boolean algebra_id6c2acb16.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Criticism of Microsoft_id7b7c6a35.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Problem solving_id06a4af57.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Itanium_id6112a49b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Conway's Game of Life_ide129ddf4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Association for Computing Machinery_id02137c6f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thunderbolt (interface)_idd9ccd980.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Z3 (computer)_id355caffa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apple Remote Desktop_id59a92e30.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kolmogorov complexity_idf7bda318.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pi_idf5c632af.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apple pointing devices_id50039427.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Source code_id9b7c4e1c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\General Electric_ide6e8fe40.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Texas Instruments_id69274732.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Data communication_id1976c76b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Industrial espionage_id3ef42332.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Shor's algorithm_id708d14cd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Data (computer science)_idf30430ca.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rootkit_id1f4729de.txt

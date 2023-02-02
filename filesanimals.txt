@@ -1,0 +1,1513 @@
+K:\TEMP_QVO\datasets\wiki_top50k\Cruelty to animals_id16cb3f1f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal welfare_id68d9c1a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Humane Society of the United States_id3836d00f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Veganism_idf602d622.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Zoo_id25cf1538.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal_id8e3e62b5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\People for the Ethical Treatment of Animals_ide0af8313.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ethics of eating meat_idebeb0b1e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Speciesism_id6f7328cb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Meat_id433ba0b6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hunting_id6ef3f29f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal consciousness_ide0f1bb8e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Marine life_idedeb14fd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal husbandry_id253f8abe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Trapping_ida9197eba.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cambrian explosion_ida42ada33.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Intensive animal farming_id2d266ffc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Foot-and-mouth disease_id942982d2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fur farming_id2afeda50.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal Liberation Front_id47958264.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Model organism_id65d212a1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mammal_idab173496.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vegetarianism_id9e9daa69.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pain in animals_id04a8b200.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Emotion in animals_id689f7a16.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal slaughter_ide655f137.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pet_id7b2f7c47.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal coloration_id87bda283.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Circus_id0a4b0be4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dog fighting_id27846580.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Working animal_id5c978299.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Shechita_id8c9888e7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cattle_id57d65a62.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pain in crustaceans_idee84a8a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chinese zodiac_idb4072b7b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bronx Zoo_id4d673e40.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Georges Cuvier_id13634b69.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pain in fish_idc6235daf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\San Diego Zoo_id70d3efcc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of evolutionary thought_id8bdd214e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\California Trail_id35d750f9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aristotle's biology_idc11e5860.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Veterinarian_id80db28cb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cockfight_id2632dcfc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Broad Ripple Park Carousel_id8f74a392.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Food and drink prohibitions_idc473b409.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Animals_ida656edff.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Elephant_idf7abbfc7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Taxidermy_id4cc4074d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Comparative psychology_id79729efe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ctenophora_id8a27de5e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Early European modern humans_id1c377610.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Road Warrior Animal_idad88831d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Zoology_id60173a5d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Domestication_id296e4be3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Livestock_id9555e941.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Temple Grandin_iddbe333a1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Guinea pig_id9ac623bc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Terrestrial locomotion_id6c3c9ccd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal sexual behaviour_idf86f09f7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of life_ida339842a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Anthropomorphism_id2dbab9bc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Human uses of animals_id0ed434e2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sponge_idc381edf8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thylacine_id700026ed.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Koala_idd328ea3c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dog meat_id07bcd10e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Beluga whale_id981b295a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Non-reproductive sexual behavior in animals_id3f34e8c2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wild boar_ide57eb608.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Territory (animal)_ida7a13956.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Peter Singer_id8b0c1685.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nutrition_id72eeb515.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Road Warriors_idc11628c3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Paleolithic_id7f4ebbd5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Horse_id1364c961.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Central Park Zoo_id946bef6e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Flying and gliding animals_id8f604af6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tsetse fly_id481e4f79.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cultured meat_id60e9ddb9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal Planet_id7ed431a0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Crocodilia_id2327d5e8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cetacea_id49549408.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eric Burdon_id833c07f6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tasmanian devil_id8138e565.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Arboreal locomotion_id0f649b10.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Herd_id8db96ef3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carnism_id0998f7cc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Anatomy_id450f89f3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal Crossing_ New Horizons_id20cbb82a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bullfighting_id3cb37528.txt
+K:\TEMP_QVO\datasets\wiki_top50k\North Pacific right whale_id159f091e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Leptospirosis_id851f8c06.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Environmental impact of meat production_id31e31a6f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sheep_idb63d377c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chronic wasting disease_id19840087.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Raccoon_id1187bf83.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pain in invertebrates_id69a8ce3e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Black-figure pottery_id8ad80f60.txt
+K:\TEMP_QVO\datasets\wiki_top50k\William Beebe_id840d1e05.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dolphin_id15d1533c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of Animals_id4711b262.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thermoregulation_id3777c73f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ralph Northam_id6023679a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Allometry_id848cd25e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dinosaur_id7b1e759b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Optimal foraging theory_idd5ff7c06.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Anti-predator adaptation_id6be49ad5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Giant otter_id5f10c4eb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Human bonding_id4bb8ceae.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wildlife_idce115fc1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Goat_idcd9c76c5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dilophosaurus_idd0e7713c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cnidaria_id3c580f8c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Parasitism_idee1cb5a7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Neolithic Revolution_iddcc4269e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Spotted hyena_id011e32da.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Polycephaly_idc69d4cc7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kashrut_id270a0e3e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Genetically modified organism_id4071ce1c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Protozoa_idfac8a86f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pinniped_idc88a8a93.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Communication_iddb4da68e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Moose_id5592cfd7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Short-beaked echidna_id82589ab4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Crash test dummy_idb4152069.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Woolly mammoth_id35981899.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Intensive farming_id4f768ffd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brain_id982d6e59.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ichthyosaur_id57d28f75.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Swarm behaviour_idcaefdcd8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Anthrax_id763ffeb3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Xenotransplantation_id0cc9b7fd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Symmetry in biology_idd9a6acc4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bryozoa_id4a6f0630.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Evidence of common descent_id73de8cea.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Platypus_ida8653eeb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Walking with Dinosaurs_idd3cbcf7c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Diet in Hinduism_idb4eacba0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wet market_ide37f5e42.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pig_id8d6968e2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Zoonosis_id8a966dbe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Skeleton_ida5ae0cb8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cannibal Holocaust_id0c27c7bc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vivisection_idf1661fc5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Holstein Friesian cattle_id37f05096.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nervous system_id0c554193.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Industrial agriculture_id62428a36.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Orca_idc9ed3a9b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mirror test_id91780c29.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Consciousness_idac372815.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Reptile_id9229b20c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Terrestrial animal_idce73a985.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brown bear_id5ff725df.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Environmental vegetarianism_idf27dda82.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Invertebrate_idc681c1a4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Genetically modified food_idb9138857.txt
+K:\TEMP_QVO\datasets\wiki_top50k\On the Origin of Species_id7a0b459f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Diurnality_idefd3c04e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brown Dog affair_id729cc2b6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Arthropod_id12e9c3a6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Edward Thorndike_id50619739.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of biology_id46906708.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tyrannosaurus_id2bcf3583.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Iguanodon_ida63dae59.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nile crocodile_idcd06e3de.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal navigation_id61ae4956.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Conrad Gessner_id195447af.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Imitation_id326f00fd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bioluminescence_id2915aa32.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tetrapod_id1b68c38f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wolf_ida534ac58.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Psychology_id97400a10.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lascaux_id0bb7eb59.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jane Goodall_idb4802740.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Offal_idc1b44c85.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Egg_id422871be.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pterosaur_id88c30dd8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Alpaca_idd10ef285.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Alfred Russel Wallace_id1b21d2d9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rodent_id25dfc2b6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Conservation of slow lorises_id91369206.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Selective breeding_idbbfbc929.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Agricultural pollution_idf49c362f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Reindeer_idac775afc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ahimsa in Jainism_idc156800c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sex_id0dac8788.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Llama_id400e9000.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal House_id76bb16d7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\European bison_id989775af.txt
+K:\TEMP_QVO\datasets\wiki_top50k\SeaWorld_id1975384c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Spawn (biology)_idadfd9fdf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Genetically modified animal_idc6b556ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Doris Day_ida0304b5c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Endocrine disruptor_id1f57fd77.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eurasian wolf_id512c79fa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Joaquin Phoenix_id76425a67.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Human_id1a5a3747.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Unicorn_id8257fea6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apparent death_id0da8fa82.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rabies_id19f7541e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lion_id0f3488a9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Anatomical terms of location_id38e658d8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Maned wolf_id8708a014.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dairy cattle_idf922367b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Evan Almighty_id0cdd1fe2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Phoenix Zoo_idd49f1a2d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Marine mammal_id15accf17.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rapid eye movement sleep_idc4fb6c36.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Giraffe_id1598eabd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Domestication of the dog_id0c383c29.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Virus_id66ad1362.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Anthropocentrism_id22f2d9f9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nature_id982c872d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sculpture_id2c2ae7f4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Coyote_id35239e31.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dog_id53c7a7b6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jellyfish_ida3b49d2c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Crypsis_idd1b229e5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Neuroethology_ida05bc714.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vitamin B12_id1feeacb8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Horses in World War I_idfa9a2358.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Marine habitats_idb45be4dd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bovine spongiform encephalopathy_id8f9e1b40.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sentience_id2d3658e8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mosasaurus_id06010b8b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Halal_id3cd628f5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Zootopia_ideb296bd4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Edmontosaurus_id34950e8a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ebola_idf9c3d614.txt
+K:\TEMP_QVO\datasets\wiki_top50k\American alligator_id945512f1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hippopotamus_id3e02a6cb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aristotle_id73066fef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Biology_ideaa10c40.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sea cucumber_id5ce1980c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bivalvia_id8b0cd6e4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\George Orwell_id61c63ee3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kingdom (biology)_idbf0f1271.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Herbivore_idf0c6a20c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Flower_id1c86ecda.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Beaver_idffb60578.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lethal dose_id418f68e9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Charles Darwin_idf8433048.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Blue iguana_id6b62d0ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dominance hierarchy_id32b97836.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Blue wildebeest_id70d6a9d7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Steller's sea cow_id40f742fc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fossa (animal)_id2e08c6a6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Whole Foods Market_id46e25955.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cave painting_id920629d1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nonviolence_idef03377d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Milk_idd2d33d52.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gallimimus_id227f0be0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Learning_id28aaea5e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Medieval cuisine_id32f391c5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fungus_id647290b6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Omnivore_id98453975.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pastoralism_idf5c78bf4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brucellosis_id0ce0ec3d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal (Kesha album)_id6d46025c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Biodiversity_idd9a3b9bd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Biological pigment_id4132400b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Entertainment_id99ea8045.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Social history of viruses_id0140ee52.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Precautionary principle_id610bef43.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animals (Pink Floyd album)_id7325b37d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Predation_idb9b9ea33.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Common sense_idefe00756.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fauna_id87ce7771.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Veterinary surgery_id5cd34a82.txt
+K:\TEMP_QVO\datasets\wiki_top50k\African wolf_id55a361c7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Scavenger_id0262b513.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nemertea_id58cafa99.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Morrissey_id29d32f77.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Beagle_ida602e122.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Foie gras_ide76dc04f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Colostrum_idcdf666d6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Prehistoric religion_id84b75c6c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Habitat_id19ff5b6a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tiger_idf19bc8c0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Marsh rice rat_ida3df6ec6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Smilodon_id6aaf44f9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Evolution_id84519ed6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aquatic animal_id15d9b486.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brachiopod_id10707e7a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Oceanic dolphin_id75d52ddd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Effective altruism_id5b7f51d8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Life_idb70aacd4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Octopus_id5a1b42ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Food_iddeb45e18.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Seed dispersal_id8d1eeee1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Madagascar 3_ Europe's Most Wanted_id38d3d2b5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Botany_id0e60c4cb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\New Forest pony_id6f368580.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Horses in warfare_idf977a49a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Stegosaurus_ida8a8dc71.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Paleontology_id8d1bd41f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Evolutionary developmental biology_id0fc4f0a9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cloning_id5b93a478.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rhetoric_idd98ff0a0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Shaktism_id5bac9bc4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Snake_idc1505b25.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Columbian mammoth_id98235b92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Black wildebeest_ide6490431.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sea otter_iddf005e7f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fossil_id5f2d386c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Moby_idb9756139.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Inbreeding_id157854c3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Crocodile_ida99f0a40.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cougar_id6aed7c23.txt
+K:\TEMP_QVO\datasets\wiki_top50k\American bison_idd39a236f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wildlife of Antarctica_id9a5390bb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Santería_idabb2c26c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bigfoot_id1f658cdd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Everglades National Park_id6d66de3a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tyrannosauridae_idb0894001.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Subfossil lemur_id9d0fd575.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Coelom_iddc7ac2b5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Opabinia_id49356766.txt
+K:\TEMP_QVO\datasets\wiki_top50k\René Descartes_id121fd96c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Plateosaurus_id53ed8447.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Whale_idb2cb8aec.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Restoration of the Everglades_idb8ad8d2b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Linnaean taxonomy_id4de02985.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aquaculture_id02d4a9ec.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vitamin A_id98a18695.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nematode_idadacc2ad.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Muskox_id44a92720.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Embryo_id29c24b2c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\North American fur trade_idc6c52a8d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Heterodontosaurus_id4426d499.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Donkey_id4326b170.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animism_id67632dc1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Triceratops_idec92bacb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nativity scene_id6a0cf9b7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Transmutation of species_id50164e47.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Serotonin_id0da4ae29.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dromedary_ida299f3d1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\European badger_id66eef31a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Agriculture_id43022ea4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sea_idad0a1dc7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mary Baker Eddy_id6a8738f7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Desert_id555799f8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Genetic engineering_id7a83b77d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Stegoceras_id78bb8355.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Spinosaurus_id6aa541b3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Loch Ness Monster_id59d8ea96.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cochliomyia_id1eb2622d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eye_id543ab308.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Plant_ida05f81b4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Organic farming_idc717ed0a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Equine nutrition_idecbf4c46.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Behaviorism_iddfea58f6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Burrow_id9e986d14.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ecology_id636e8f5f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Anthrozoology_ide63eabb8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Neanderthal_id09e55a07.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Deinocheirus_id2c76f622.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Konrad Lorenz_id1fa579ed.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Antimicrobial resistance_id6268e4bc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dolphinarium_id23b7e2c7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Natural reservoir_id6123ff6f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Endotherm_id5c0ff3c8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fear_id71d93070.txt
+K:\TEMP_QVO\datasets\wiki_top50k\White-tailed deer_id7cc25b89.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Echinoderm_id514070b9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Human impact on the environment_id852eee75.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Protist_id2e4ade4c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Deer_id65d631a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Irritator_id8f0de5cd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rift Valley fever_id019638b9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Panchatantra_id13c6afb8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Influenza pandemic_id0f50cba2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Werewolf_ida84b774e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bongo (antelope)_id0fabc55f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Toothed whale_ida29514fe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carnivore_ida89b4a36.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nomad_idd8520b14.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Justus von Liebig_idc5d3b06e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Inuit_idb4bd4cad.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Maus_id27b1f31c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Przewalski's horse_idb47d901e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Elasmosaurus_id7e081314.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Edmontosaurus mummy AMNH 5060_id6f85afc4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Allosaurus_iddb92a8a4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Transport_id3e624346.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Travel document_idcf18f39f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Horse breeding_idc6d9cc4e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Scythians_id05f3e023.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Camel_ida93ecb4a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Baryonyx_id4ec95f92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tylosaurus_id834a723a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Limusaurus_id2f977954.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Estrous cycle_idbfc9569e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jewish ethics_id7acff367.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bobcat_id90379d65.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Striped hyena_idfc695dad.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Human nutrition_id09e6bcb2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hybrid (biology)_id10fd4ca9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Great chain of being_id86160329.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Japanese serow_id4f3b2c3e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Circadian rhythm_idac25ffc3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hermaphrodite_id86b45cf8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bipedalism_id098ada59.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fisher (animal)_ide54a219a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ecosystem_idd5f80386.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Toxoplasma gondii_ide18d91e0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal echolocation_ideef7a846.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Origin of language_id511103a6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Traditional Chinese medicine_idcf94406a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Reward system_id62f96a89.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mitochondrial DNA_idd1124914.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Origin of speech_idc33f7929.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Greco-Turkish War (1919_1922)_id20c18d5c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vitamin K_id47dc0c0f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Göbekli Tepe_id8b0e4dd5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ankylosaurus_id542aceaf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Americans with Disabilities Act of 1990_ida7ed43c8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dingo_idce24e837.txt
+K:\TEMP_QVO\datasets\wiki_top50k\2019_20 Australian bushfire season_id431a92fa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carbon dioxide_idcd24bc22.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wildebeest_id7e23e8dc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Arabian horse_id8942fa8d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\British big cats_id77166516.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pterodactylus_id75d4c359.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Horn (anatomy)_idbc1e29aa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Everglades_id3707df7e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dugong_idb6fcb2b9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Egyptian temple_ide981fd96.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mustang_id5e3518cd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brian May_id61347e5f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dhole_id98265f21.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Maya religion_id49b091d1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Woolly rhinoceros_id00cbdc8f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carl Linnaeus_idace7adb7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Indus Valley Civilisation_id780ad731.txt
+K:\TEMP_QVO\datasets\wiki_top50k\American mink_id377c0ed3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fable_id8353f72f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hippocampus_idfd5cbb1d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sea urchin_idf975ca46.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mind_id2656f83e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Velociraptor_id1e5d6482.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Neolithic_ida8af5d27.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Choanoflagellate_ida5053fdc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Beef_idd7823553.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cat_id80767c42.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vitamin C_id630ffa81.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kantian ethics_ide7a9c153.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mink_id0b257a24.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Galápagos tortoise_id29d63f0a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Plesiosaur_idc079608e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Introduction to viruses_id01d90820.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Commensalism_idac45006c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mycotoxin_idcc6addbd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Extinction_id7a0c8c40.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kangaroo_idc3a27474.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Flatworm_id117bce6d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Deforestation_id2283c2d7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Operant conditioning_idcd3d791f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ageing_id53501138.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Laboratory mouse_ide6d3d6d6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Haitian Vodou_id7b5bb8fa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Harmful algal bloom_id8737edee.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cowboy_ida07520d4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Evolution of the eye_iddee5171b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Giganotosaurus_id4ecec045.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Canine distemper_idae5ae9a8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of paleontology_id81c7d7a6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brachiosaurus_id5c873871.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mitosis_idd83ff542.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Giant anteater_id6c0b7974.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Columbian exchange_id109d4343.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Seashell_idcf3121c2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tardigrade_idaa47bb05.txt
+K:\TEMP_QVO\datasets\wiki_top50k\L'Oréal_ide19cd17b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aquarium_id73389330.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Parchment_ida0b3ecba.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eurasian beaver_ida8cecee3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\International Code of Zoological Nomenclature_id7bf25d75.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Battery cage_idbf2766cc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ahimsa_ida731cdc1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Fox and the Hound (novel)_id27cea0a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bison_id6089f2df.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Garden of Earthly Delights_ide6c1f8b0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Jungle Book (2016 film)_id8638c093.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Annelid_id0d003203.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Calgary Stampede_idb47c069d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Steve Irwin_ide2e55d15.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Poikilotherm_ida86beebc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sponge spicule_id3db4b188.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Species reintroduction_idad40e092.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Soil_idad5774d6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Slow loris_id838af0f8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Decomposition_id8d06a1af.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Homo erectus_id7bebcff2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Satyr_id9c2574a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Deinonychus_id2352bd95.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Santa's Little Helper_id75da0b35.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Craters of the Moon National Monument and Preserve_id32cfa210.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Art of Mesopotamia_id0cbfdb9c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pink Floyd_id20fea4e7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mars (mythology)_id8751feaa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Javan rhinoceros_id8e2e4874.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Saltwater crocodile_id492d8c09.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mary Midgley_id260f04fa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Coronavirus_id2f94019e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Salamander_id555889ad.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Body plan_id6998a97d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Megalosaurus_id79404143.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Krill_idc27e479a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rotifer_iddbc983b7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mesa Verde National Park_idd2ef688f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mexico_United States border_id30e65d40.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Colosseum_id7994d66d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Amphibian_id320923b7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gestation crate_id484cec50.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chupacabra_id128ef25b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hibernation_idb598ee34.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kentrosaurus_idd6775aa2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Antelope_idd4b62e56.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Qurban (Islamic ritual sacrifice)_id50a0a37a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Paraceratherium_id103d7c2f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nutria_id440c6eee.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Even-toed ungulate_id4f91433b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Geography and ecology of the Everglades_id52a5bfed.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Buddhist symbolism_idf71f38fc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Zooplankton_id64f9527e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fat_idf2ea8363.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aardvark_ida12ebaf1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\White Sands National Park_id5bcbcd2b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Natural product_id234a4324.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Invasive species_idb0993c15.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Feces_id7f944013.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Groundhog_id3731a5a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Iroquois_id521522c6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tularemia_id9543efa9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Great white shark_idd3126e32.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Insect_idcc3dd0a3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thylacoleo_idac5f4fe2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thoroughbred_id6ee21c5c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thescelosaurus_id56128542.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Theropoda_idb879f65c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cass Sunstein_id043271ee.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Stuffed toy_id1d3c228b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Polar bear_id384425b5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chaplain_idb6ddd125.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Opisthokont_id3980083b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Veal_ideca8ed90.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aliger gigas_id7ed5896c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mummy_idbd9f3ab6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carrie Underwood_id74c7f8a6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cholesterol_idae0f7331.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Exoskeleton_ida0878d26.txt
+K:\TEMP_QVO\datasets\wiki_top50k\American black bear_idffe82800.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cultural depictions of dinosaurs_ide833c355.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Taxonomy (biology)_idc442788b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Virginia opossum_id168dbeb0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Abstraction (computer science)_id855cb65c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Food loss and waste_idc87b4ebf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Feral cat_idf2780241.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Achelousaurus_id47acb832.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sutton Hoo_id5dc0a6d4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ethics_id0ac36b63.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apocalyptic and post-apocalyptic fiction_id484a6b73.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Georgia Aquarium_id30bac975.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Primate_id14813125.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Future of Earth_id56ca4c10.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Magic in Harry Potter_idc30c79eb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wetland_id694d150b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Quaternary extinction event_id635c502f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bacteria_id5d374b97.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of painting_idfb7e0d22.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Red fox_id5b79e6a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Irrawaddy dolphin_id960dec04.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Asexual reproduction_ide8648d16.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Life of Pi (film)_id6368730a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wolverine_idbc1b46b9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Giant panda_id265ff7e5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Legal person_id35f43e47.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Psittacosaurus_id9dd7b4ff.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Detritus_idcb150c86.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fish farming_ide8bce6ac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Diplodocus_id5f8c6d4d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lipid_id5371432c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Stallion_id0094f04c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nairobi National Park_idf22445de.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pescetarianism_id91ab39b6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ascomycota_id3aa42b10.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Poultry farming_id8e38f2d4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Galen_id31b04b2b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Oregon Trail_ida92f2252.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sociality_id85290223.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rabies vaccine_iddf12d9c6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal Diversity Web_id4f966fcd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bambi, a Life in the Woods_id9dc2c3d2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Animal Boy_id54637c5b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Over the Hedge (film)_ide37afae7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dodo_idc1418b13.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Origin of birds_id51ca44a4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Maneka Gandhi_id84c54219.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fantastic Mr. Fox (film)_id8e3f9674.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ancient Egyptian religion_id1eb1b0e5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nasir al-Din al-Tusi_id79cabab4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jurassic World_ Fallen Kingdom_id59ef7937.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Olm_idfe8864ff.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Radiocarbon dating_id038d31d8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\National Lampoon (magazine)_id3f175321.txt
+K:\TEMP_QVO\datasets\wiki_top50k\North Atlantic right whale_id92a425d5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Meat alternative_idc3be54a4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\10th edition of Systema Naturae_id755cbf81.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rat_id108f2185.txt
+K:\TEMP_QVO\datasets\wiki_top50k\African buffalo_id47917fe6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Trace fossil_id3bdb2273.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mascot_id0690ebed.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Megafauna_id77c3f9a1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Betty White_id9d755d02.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Microraptor_id9394aff0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chagas disease_idee2d58e8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Common raccoon dog_id7ef6cc95.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Isabella Rossellini_id72ebd52d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Blood transfusion_id346cc7f1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Plant defense against herbivory_id84f6988d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Papua (province)_id1ca4b19e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apache_id4ebbd5c3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sperm whale_id6760feda.txt
+K:\TEMP_QVO\datasets\wiki_top50k\David Attenborough_idd4e127d6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Southern Ocean_id1d82d569.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Monkey_idf6014cfb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Agriculture in ancient Greece_id942fe640.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ungulate_ide4567c2a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\B. F. Skinner_id78be653f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eating_ideab4ef5d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Earthquake prediction_id6d0e5365.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vertebrate_id6db714ff.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eutrophication_id4b1a28c1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Melatonin_id5219b1ff.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wedge-tailed eagle_idafdf36e4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Shoaling and schooling_id81d37618.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mythologies of the indigenous peoples of the Ameri_id026483fd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chernobyl disaster_id47e8a2b9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Worm_idf9514c76.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Phoronid_id4cb2c689.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bubbles (chimpanzee)_id3f8738af.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pteranodon_id417a694e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dimetrodon_id15e93df8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chick culling_id3a0aaeed.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hadrosauridae_idd83e1229.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Influenza_id0512cee0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Laevistrombus canarium_id33845b05.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Natural history_idaaf88d27.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Blood sport_id9e8f1d43.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pig (zodiac)_ide6a25330.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kesha_id4e6d55c7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rotating locomotion in living systems_id0bea08d1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apatosaurus_id5e3f7a54.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Blood_id2d2e0d13.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Five precepts_id8e794b18.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Party for the Animals_idd23a2abe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Median lethal dose_id82caacf6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Maria Sibylla Merian_id707d38de.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Knut (polar bear)_idd4aa505c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Habitat fragmentation_id5ac46197.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Holy Wood (In the Shadow of the Valley of Death)_id6f3783e4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Melamine_idd07b6ec0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bob Barker_idd0177a1d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Equestrianism_id002850b7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bear_id03960413.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Coconut crab_id49ec2ef2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nemegtomaia_idb29ed3e8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Beast of Gévaudan_id31beaca9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pest (organism)_id91a0cfc9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mite_id645dfb44.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ediacaran biota_id48bb61f1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ceratosaurus_id6ce1a256.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gelding_id45342c96.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sociocultural evolution_ideb909dd7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sperm_iddc3d42bb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Reason_id27646bd5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Albertosaurus_id84eedef3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Orangutan_ide9f07788.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Squid_idc40ce729.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ancient Egyptian deities_id7544d2ea.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ancient Egypt_id0f4a7251.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dopamine_idab741be2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Scurvy_ide670ae9b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\La Brea Tar Pits_idf433f0ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Stone Age_idde2fbd40.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Polychlorinated biphenyl_id89bdc9f0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mollusca_id3ade3215.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hemichordate_id0e11225a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Civet_idb4e34bb0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carnotaurus_id09ee6c91.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Do Androids Dream of Electric Sheep_id4cfe9b1b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fight-or-flight response_ide664b795.txt
+K:\TEMP_QVO\datasets\wiki_top50k\J. M. Coetzee_idee3f617c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Magician's Nephew_idaac0960c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\African wild dog_id7678ae9d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dürer's Rhinoceros_id2af8bf1b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\African trypanosomiasis_ida089ebea.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Instinct_iddcb80c16.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sense_id60bfb644.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Arthur Schopenhauer_idb8d6c6d0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Germ theory of disease_id03a3b439.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Delayed gratification_id2d421c09.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Organic food_ide27a34ba.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Endangered species_id0a507396.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Truffle_id3dfaf9bb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ashoka_id823b22a3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tunicate_id074260c6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Asian elephant_id9be5457d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Action potential_id3c1d435d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Heterotroph_idd41c28e1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Venom_id916aed6d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Shark_idb795200e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Evolution of the horse_idd1ab5ab0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hypothalamic_pituitary_adrenal axis_idecf8c1a6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Spinosauridae_idc0d2b473.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Snow White and the Seven Dwarfs (1937 film)_id2ee0b142.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Second voyage of HMS Beagle_ide1e74227.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Komodo dragon_id967e80a4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Creosote_idfef36b1e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hunter-gatherer_idf90e6a58.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Metabolism_id4b4f4dbd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hinduism_id1c560394.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bengal tiger_id2c0302ea.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sonic the Hedgehog (1991 video game)_idd423fa8c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Lion King_id5201d973.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Common ostrich_id65b261ae.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Microplastics_id2ae0c85c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lion Capital of Ashoka_id6215c0de.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Culture of Africa_id67434036.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Livestock Conservancy_id375e10b3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Microorganism_id24aacdc5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Walt Disney Company_id9ba1370a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mediterranean monk seal_id45c1d697.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Theodore Roosevelt_id5872cbad.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Salmonella_ida9a67e9f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Semiotics_idb2c1d994.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bluetongue disease_id5db4df8a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bird intelligence_idb7982264.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cell theory_id369b7d6b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aposematism_id1e21a04f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cretaceous_Paleogene extinction event_ida66b8417.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eadweard Muybridge_id0ddac53b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mauna Kea_id6bb76131.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Scelidosaurus_id5fca4a6a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Penis_id3112c89d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aetosaur_id90e7840e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aestivation_id58883885.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Moctezuma II_idd55c7ed5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\National Museum of Natural History, France_id0b1f8999.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Caenorhabditis elegans_id5921752d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Louis Agassiz_idae7c9146.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brigitte Bardot_id60479f91.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pathogenic Escherichia coli_idfb7bc481.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bambi_idafd7a8eb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ancient history_id4fdb67bd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Onychophora_id7cb086fa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Atlantic horseshoe crab_id2630d248.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tiktaalik_idcbca8ae4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tower of London_id336b77b8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Coral_id7d8ce96b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Frog_idf5ceadc0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pathogen_iddd08ea17.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Toxoplasmosis_id368a5ebe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Evolutionary origin of religions_idb1f7f376.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Toy_id133a8781.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Extinction event_idb20e3fac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eukaryote_id8d1556dc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Egg cell_idfb222df2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Trypanosoma brucei_id6740190c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Operation Crossroads_id764a95bf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cuttlefish_idb5f0c2e8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Horse-fly_id6635a24b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fertilisation_id5d8713cb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tuatara_id80a3f215.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dehumanization_id2175c626.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Harry Harlow_id96061bdd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Asian black bear_idbe340fef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Compsognathus_id259ba317.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Myiasis_idd09ab96d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\White rhinoceros_idbf73e1c1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Heather Mills_ida7c17180.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chromatophore_id9fe22eb9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Turkey vulture_id53b18889.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sea anemone_id10cf7ad3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Turtle_idcaa0fbd6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mutagen_idad7b28e2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mouth_idecc6c657.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Deimatic behaviour_id2babe1de.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Paul McCartney_id11af38a1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\United States Fish and Wildlife Service_id399b2ec0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Water buffalo_id9809dca0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Urination_idc349e364.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brown rat_id0d456ad7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Multicellular organism_id70956740.txt
+K:\TEMP_QVO\datasets\wiki_top50k\European polecat_ideb65924c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fish_idbcaa6aa0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Regeneration (biology)_idf39b4c3d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\CITES_id0d176d96.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Green iguana_id6d9062c4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Emotion_id58815a60.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pythagoreanism_id46c31833.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Modafinil_id1b4fa28c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Huntington's disease_id7839e0fe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Melioidosis_idb5fb1ac5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Insectivore_ida1da520f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Maya civilization_id2ac60ce9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Scabies_id59d93dfb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Coral reef_id168d537f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\2,3,7,8-Tetrachlorodibenzodioxin_id5a06f162.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Courtship_id357c04c4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rotavirus_idb628ddec.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Grassland_ide4d4ace7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\European rabbit_id76bc0d54.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cryptosporidiosis_idd8170e7a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Magical creatures in Harry Potter_idc08fb4ff.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Spontaneous generation_id6d249286.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sumatran rhinoceros_id8aa12962.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Swine influenza_idf9570327.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Symbiosis_id8b8d5bf3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rhamphorhynchus_idaa6bcd29.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Synapsid_idd892e6de.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Co-operative Group_id558f6e36.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eurypterid_id3b6529da.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Lion King (2019 film)_idb9008c91.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Antarctica_id9634aeef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tick_id709ecb99.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tintin in the Congo_id6dd93eef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tortoise_id514ef532.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Trans fat_iddd150b1c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Argentinosaurus_idf6b1a3ae.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Transhumanism_id4d237e4a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tuberculosis_id582c99ff.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Union Stock Yards_id536905eb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Saola_idbf15e6dd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vaccine_idc69501cc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vertebra_id16c50eb6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Alkaloid_idfd63f671.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Signalling theory_idae61f9c8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wombat_id59355623.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sense of smell_ide7894adf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Proto-Indo-European mythology_id0bc58fb7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Automaton_id190fe80d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of Earth_iddc287677.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Death_iddf090e9f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Judaism_id59a54423.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Baiji_idd93a4a26.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Baleen whale_id9cbb4431.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Selenium_id7fe06658.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Positron emission tomography_idb8ae934a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Porpoise_idaf0bf520.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Polysaccharide_idf3025e23.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Religion in ancient Rome_id24768a2e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dermatophytosis_id370a87a7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bat_ide94fdcc5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Petrified Forest National Park_id2efdd65e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\ALS_idd92b0168.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Artemis_id786dc67b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Persian carpet_id27ee4d39.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Istiodactylus_idebe74fb6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Legendary creature_id923c1d66.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pangolin_ideabc785f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bowhead whale_id60aecd5a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Paleo-Indians_ide8164152.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pain_idee6f497c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Otter_iddd7d8653.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Oryzomys couesi_id6ae180b8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brontosaurus_id3cec2140.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Heathenry (new religious movement)_idfbaee057.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Alternation of generations_id4c62de5e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lead poisoning_id5eda9b24.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Reincarnation_id756c6d01.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Frontier Airlines_id3c787661.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gundestrup cauldron_id803fe9f6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ontogeny_idf5d27b3d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Okapi_id34673620.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of agriculture_id2637f022.txt
+K:\TEMP_QVO\datasets\wiki_top50k\California sea lion_id3d8bf04f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cane toad_id5aede4d9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Intelligence_id89f0d97a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dmanisi hominins_id58ea5e80.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Language_id315998ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carotenoid_id3a27ccf5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carousel_idbb0cee2d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nine-banded armadillo_idd2388a18.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lothal_ide664257b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nicomachean Ethics_id6c6cbfbd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gastrotrich_id9f7d9a0a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Shamanism_id2805baf9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cattle egret_id95e4042c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rinderpest_id9c73fccb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cephalopod_idda6241f3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jack Russell Terrier_ida61fe121.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sahara_id4cfe0b98.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hartebeest_id61c10e85.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cheese_id25d291db.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nanjing_id6ded8caf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chimera (genetics)_id6765bfe5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chimpanzee_id1561b115.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sexual intercourse_idcf791e41.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Q fever_idfcf5865f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jeffrey Dahmer_id5303cc63.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chinese painting_id4daa9aab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mule_iddc4bc9aa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Adaptation_id01f79b42.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fin whale_id480b259f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tarpan_ide9f36a1d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Buruli ulcer_ide5cfe248.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Antibiotic_id61fc0577.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lemur_id73500eee.txt
+K:\TEMP_QVO\datasets\wiki_top50k\LaVeyan Satanism_id39628ad3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brumby_id1720ea46.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mobbing (animal behavior)_id33344196.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nepenthes rajah_id5232ef66.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cerebellum_id108437aa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eid al-Adha_id47468734.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Life of Pi_idaf6d5b0b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Permian_Triassic extinction event_ide8eac158.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Durian_idff97ee86.txt
+K:\TEMP_QVO\datasets\wiki_top50k\William Harvey_id76ff9bbd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sitatunga_id0d2fa5a6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Zebra_ide2e7d484.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Austronesian peoples_id5df25b92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fly_id5c59b95e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Food and Drug Administration_id0c773028.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Synephrine_id545d9849.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Passover sacrifice_idb140e098.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sinosauropteryx_id2361b33f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pollination_id5776e70d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Concussion_id01b66542.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carole Baskin_idab17b55f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Radio-frequency identification_id38678841.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fear Factor_idd7cad8fe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hungarian prehistory_id2bb203fc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Right whale_id0dd6e7eb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\House sparrow_idecc625bc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Anglo-Saxons_idc8508bef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Smuggling_idf8e2a747.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Life expectancy_id48467a50.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wax_id79369afd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Biodiversity loss_id5398fbed.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fish fin_idaeb14309.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Proprioception_idde5c72cf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Horizontal gene transfer_id0415a45a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pamela Anderson_iddc68e6f9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Walt Disney World_id6c093a75.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Scorpion_idd3a1c630.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lord Howe Island_idf0b4e3b5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Biodiesel_id66d60ae7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dragon_id75471534.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Laika_id5cf0f5d2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Francis of Assisi_idf17a7241.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mosasaur_id8b47ceb2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Siamosaurus_id6458e533.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Straight edge_id7b4c3302.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Electroreception and electrogenesis_id740d50ae.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Biochemistry_iddb81f617.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Antonio Villaraigosa_id07e663ba.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Minoan civilization_id458291e3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Muskrat_id98ae41c5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Botfly_idd750d7f8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Steve King_idc1e604f0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Steroid_idd3c00137.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Venison_id6c0f3868.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Elk_id11abcaae.txt
+K:\TEMP_QVO\datasets\wiki_top50k\COVID-19_id561e96e7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\North American beaver_idc11aa317.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chiapas_id109bbd31.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Episodic memory_idb92cd613.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Glacier National Park (U.S.)_idfca3a291.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Black caiman_id4069a4bc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Utilitarianism_id4bfc9ddb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Typhon_id90621b5e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gender_ida09f5250.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cueva de las Manos_id1bad4dec.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mind_body dualism_id39e3483b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mind uploading_idf999ed92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Korban_id2aa7b38e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Marilyn Manson (band)_id06427768.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chelicerata_ide24931d2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Prion_id69c975aa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cheetah_id1e5bc715.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gopher tortoise_id64f3a35e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Blue whale_id71a9b114.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Collagen_id54eb8f43.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Alligator_ide8eaa421.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Appalachian Trail_idc19abe35.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Crustacean_id1f9b83bf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Crustacean larva_idc7e98b2e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hedgehog_id72046e85.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Marilyn Manson_idf15a43b6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Eumetazoa_id3252f6f2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Petra_idb3c92b1f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Maize_ida01d6d97.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hyena_id5e19701f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Achillobator_id3bc79d98.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Foodborne illness_ide386a01c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ferugliotherium_id1e51648b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bohor reedbuck_id2f3f3366.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Leather_id180103db.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Acrocanthosaurus_id830b66f9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Daspletosaurus_idf11f0131.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Biological immortality_id3f74152b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Active camouflage_id3518f8e6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Humus_id70a58743.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Introduced species_id51bb25d6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Canidae_id87a11a70.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Transgene_id4947dfe5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Poultry_idb7681101.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Organ (biology)_idddf67244.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Monte Verde_ided7cef00.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Objections to evolution_id7d1a641e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Brain_computer interface_idcb362628.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Plantation complexes in the Southern United States_idc26d1dae.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Respiratory system_id61a9a070.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hittites_idc7fe509e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Perception_idcb77598d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Père David's deer_idee17da7e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Graptolite_id444f3130.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tooth_id70daa417.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Antler_id03f8179d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Podokesaurus_idd583a278.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Serpent symbolism_id2479eda6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tool_id210d302f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pocahontas (1995 film)_id747c6c92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apis (deity)_id99aac8b4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Linda McCartney_idb50238d6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bull_iddaefef90.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Crimean_Congo hemorrhagic fever_id0c2ad462.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sequential hermaphroditism_id74288405.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Phagocyte_id96be017c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Odd-toed ungulate_id60b96b79.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bluebuck_ida09694b2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aesop's Fables_id2f9d04e8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Andean condor_id14cff457.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Poaceae_id6bbce89a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Classical conditioning_id809fecbf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\African elephant_id497f8ef5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Navaratri_id5205feef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Spectacled bear_id531f5c0d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mesoamerica_idf35a23e5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Beetle_id75b15521.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Glucose_ide878905a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Behavioral economics_id2491d47c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Old Norse religion_ida3364bb7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Neoteny_id93077987.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Soybean_idf85bf336.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Common raven_id71aa8d51.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Polyploidy_ide69d59d4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Hobbit (film series)_id13e09c28.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Yellowstone National Park_id2c67179d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Glyphosate_id2359d866.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cetacean surfacing behaviour_id16683ca8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Yala National Park_idd4247196.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Circulatory system_ide853633f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tammar wallaby_idd6958ba1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Woylie_id8eeffb4b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fatty acid_id3c4eeb4a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cumans_id8d566883.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Amygdala_id9494dc07.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wildlife of Brazil_idd349a4d8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Murder of Jun Lin_id7f5de5f9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Joseph Lister_idce84e7c8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fauna of Australia_idcbb1b16b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carrying capacity_id542fb664.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sugar glider_id313e6f1c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Protein_id4a35a297.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wild fisheries_id0873c27c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Electric eel_id60b94b6d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\39 Melakhot_idb80fe5a5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Waterbuck_id79ceaf79.txt
+K:\TEMP_QVO\datasets\wiki_top50k\War of the currents_iddfe2dd22.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bird_id687210b8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vulture_id00a459d0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sia_idcbe1a092.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Axolotl_id2d516976.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Indian religions_idb34d9f12.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Clitoris_id0d3e467f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vestigiality_id738b25fa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\An Enquiry Concerning Human Understanding_id6c2eadac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Stoat_id44b5ed30.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kidney stone disease_idf0f5ba90.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Progesterone (medication)_id78ca4220.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cyanobacteria_id40abacfb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aztecs_idaba9a133.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Varaha_id59369dcf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Religion in pre-Islamic Arabia_idd86e4535.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vamana_idfef519cc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Belinda Carlisle_id9da8b0d6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nilgai_id32384f6a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Robin Hood (1973 film)_ide85fc1a6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of paper_idac66b82a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jewellery_idd2709773.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Diaper_idf93f8854.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gargoyle_id9e7bb5f6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bactrian camel_id3993a84b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Infection_idb25757c6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Parasaurolophus_idfeff8b4c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Shark attack_ida8579b19.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Badger_ida5ebdad6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Trilobite_id678fb98c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tree_id04c5b2e0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Indo-Roman trade relations_id3f9da315.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Black-footed ferret_id9229ef1c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\RNA interference_id28221107.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Prairie dog_idabaddd61.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Transitional fossil_id78f6a545.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Staffordshire Bull Terrier_id31dee1c1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tort_iddc47cf29.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Black_id00b442b7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nipah virus infection_id1cdeac4f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Adaptive immune system_id0ec1b28b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Springbok_id5b8c7861.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Forage fish_id0065a92a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Parthenogenesis_id0f5a536e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Time perception_id1a3e568e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Balut (food)_id81795785.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of science_ide70e9915.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Banff National Park_id4fe150a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thought_id62ab2378.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lesser kudu_id1a70814e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Meiosis_id529fb8e6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\African swine fever virus_id3486b6d7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Wolf of Wall Street (2013 film)_id48cbd354.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pheromone_id03d04851.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Spatial memory_id0523d626.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Texas Chain Saw Massacre_idce247495.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Soul_id54f03435.txt
+K:\TEMP_QVO\datasets\wiki_top50k\John Belushi_ida9457c22.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Grizzly bear_id83214bb5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tarzan (1999 film)_ida1f57113.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jurassic Park (film)_id484c764f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Society_idb9681426.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Snakebite_idea342cc4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Facial expression_id7d3aa01c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Peccary_id49a80121.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mask_idb0324825.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Anomalocaris_id38fc0028.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jacques Derrida_idb69707c6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Science in classical antiquity_id12761321.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Konnan_id38f44b57.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Leona Lewis_id8e13843b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Phosphorus cycle_idc37b3294.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Antonie van Leeuwenhoek_id2982585e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Natural Resources Conservation Service_id014663e2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Herbal medicine_idee327703.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cannibalism_id4d863590.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lamarckism_id485a05d1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cell (biology)_id80497359.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Francis Willughby_id842e1241.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Schöningen spears_id624c763a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Evolution of cetaceans_id720f350b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Plastic pollution_id7f7c10d6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Common toad_ida54a72c1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nitrogen_idc09a4e4e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Human brain_id097a09e2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ape_id685c973f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rainforest_idfd46d44a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Narcolepsy_id44bcf571.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hajj_id03fdae0e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Antarctic krill_id6e1f5532.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Coelophysis_id5faf751e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Coprolite_idd9512184.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rey Mysterio_id301145fe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cancer_id8e405728.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Introduction to evolution_id4e8e962d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Karma in Jainism_idfc5eaaee.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mole (animal)_id94e8d4f4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Horse colic_idb7db5e39.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bottlenose dolphin_idbe65369e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Evanna Lynch_id6d783c29.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Félicette_idc8787dd1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\New Guinea crocodile_idc6a0f2fe.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Environmentalism_idbcc15092.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pathology_idb8bd44bd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\October 2007 California wildfires_id96edd1bb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bearded vulture_idcb97d870.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Saiga antelope_idbc8e4d92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\New Forest_idd3c2c2bd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Homo antecessor_idc9544824.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kosmoceratops_id96a3df62.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Meat ant_id7ab8c738.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Archaeopteryx_id128cc787.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Phage therapy_id80e63c92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Saddle_id9e66b169.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sloth bear_idb8163d9f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cretaceous_id6fe6c73e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Passive immunity_id07496998.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dromaeosauroides_idba3b0013.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chinese dragon_id228f1b3b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\SARS_id9bf292eb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Paranthropus robustus_idca3ac2dd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Holocene_id785740a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Plankton_id080d3e07.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Red-footed tortoise_id478c5a4e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Food web_idd242067b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Human uses of birds_id809a4221.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mantis shrimp_id37d47fc8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Flavoring_idee451115.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chinese classifier_ide229a7f8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ivory_id56bd56a3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Opossum_id17794166.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ammonia_id9619575e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jack London_id5635c42c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ammonoidea_idc9c93f2c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hamster_id648cf30e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Genesis flood narrative_id7afbcc04.txt
+K:\TEMP_QVO\datasets\wiki_top50k\History of art_id96bd8bac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Glycolysis_id294d9778.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Natural environment_id16b3c8a9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rapeseed_id78479a68.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Insulin_idcc04bf56.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mimicry_id855d77fc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Roman funerary practices_ida06c56a8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rohit Sharma_idc1b29b0e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Margaret Atwood_id94c9385b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Goldfish_idf5c794f3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Zebroid_id55b3365f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Game theory_id4f2b0549.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tanit_idde3b5786.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nineteen Eighty-Four_id91a3a015.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Skin_id9ebef9bb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sirenia_id0ff84919.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pandemic_idc3771171.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sunlight_id02ac03ef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Strychnine_id3ccf19ca.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Striped skunk_id78943d7c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Stonehenge_id7aaf32ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hypothyroidism_id2b504f36.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Housefly_id96a12745.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ellen DeGeneres_id15c12510.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Elon Musk_id5811b2a3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cherub_idd4196851.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cyborg_idd2bb2230.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ivermectin_idcbb833f8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Starfish_idc8145ec7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hecate_idd6f6c114.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nigersaurus_id4d87c8ce.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nicotine_idfee1bae0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Starbucks_id1e944d6c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Shampoo_id253639f2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Acetylcholine_id9c0b2a21.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kelenken_id7c287b9a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cassava_id0490418b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lysine_idb326d454.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lyme disease_idd35c6f35.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sexual dimorphism_idc51ab496.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fire ecology_idfa9ee820.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Addiction_id86d820fd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Seth-Peribsen_id2cfb5ed7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Adhesive_idf1c93226.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gastrointestinal tract_idb25aa297.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aflatoxin_idf02eb46a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Blackfoot Confederacy_idbe60187f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Giant squid_id021ad212.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Speciation_id764822c0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dactyloidae_id669cc7cd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Seed_id203621d9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sonic X_id810d0925.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Society and culture of the Han dynasty_id0cfba237.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Second Congo War_id759bc9a5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ainu people_idae54389b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jeremy Bentham_iddb33c206.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fish as food_idf73b0254.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gastropoda_id00b5e70e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Soap_idadc90e9b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Snow leopard_id6e5b4030.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sea turtle_id180288ee.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Louis Pasteur_id17336433.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Modern paganism_id2dd5d538.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Caterpillar_idb7c2fbba.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Environmental determinism_id9c0a049a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Smallpox vaccine_ida34e2540.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Environmental policy of the Donald Trump administr_id2260b8ac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Beaked whale_ida3c3f3e4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ploidy_id307f545f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Alesha Dixon_id51eb341d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Leatherback sea turtle_id50682992.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Saudi Arabia_id12f67d92.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pantothenic acid_id8eccd98d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bone_idb715fc4f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hepatitis E_ida375e46a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sarah Bernhardt_id0a82c23c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dog intelligence_idcffabad0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thomas Aquinas_id0a378f23.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Santa Clara County, California_id4ddc921b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jared Diamond_id0d43abd4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Human history_id595c1e42.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chordate_idc7b34e58.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Sam Simon_ide02c4bf1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Durga Puja_id64333cf8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Majungasaurus_idb80e9d7b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Salt marsh_id7ac56b44.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Salp_id3b83aefa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kitten_id4c19ddfd.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gray whale_idf4bcf467.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Crow people_idba4fe7db.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Saka_idb21567fb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Namib_id9d4e8430.txt
+K:\TEMP_QVO\datasets\wiki_top50k\CRISPR gene editing_id2c8642e2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Estuary_id4569fa67.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Homeopathy_id25101e06.txt
+K:\TEMP_QVO\datasets\wiki_top50k\American frontier_id83355826.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ruminant_id34664e38.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ethylene glycol poisoning_idca4c0ff9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dolittle (film)_id31e4415a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Amphicoelias_id5fdacdec.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Belemnitida_id42ee999b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Neuropeptide_id6008424a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Margaret Murray_id36e71be4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rock hyrax_id4d798511.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Herpesviridae_idc063c092.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Robot_id73250f56.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Roar (song)_id8958f7b5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hypericum perforatum_id4aa9b0ef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ancient Maya cuisine_ida598c0c7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Least weasel_idc22a4046.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pit bull_id0f23df4b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chicken_id207ce9d6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Martha Nussbaum_ida5e6a40c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hypercalcaemia_id934f9485.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lipopolysaccharide_ide7aa84b2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\European hedgehog_id0475604a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Physiology_id1a7f0321.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cornu aspersum_id32e2b183.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kopi luwak_idd3fd8c94.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Benthos_id6b1c6ac5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rhesus macaque_id007fb9d8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Europe_id125c5cf3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rhea Seddon_idbd3e6d63.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rh blood group system_iddd0ec3ff.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gelatin_id2dabd3a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lady with an Ermine_id9f8bcf3b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Perfluorooctanoic acid_id4868611a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Biomimetics_id75605674.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Decapitation_id92e3027e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Parasitology_id26088771.txt
+K:\TEMP_QVO\datasets\wiki_top50k\British Agricultural Revolution_id6a1144a5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\.22 Long Rifle_id8852a43d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Osteochondritis dissecans_id10dbe154.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Formaldehyde_idd7cbd1fa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cetacean stranding_idfb19f3e2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Drinking water_id00ad6ab8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Muscle contraction_idabeca18a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Arachnid_id0e5c54b1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Red panda_id7642585a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Convergent evolution_id7a036de8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Red deer_idcfce090d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chinese art_id5b60fde2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Monster_idd31983b8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Arctic National Wildlife Refuge_id43f07900.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Golden jackal_id6a66c757.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Leopard_iddfed4e4a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Philippine tarsier_id2413caf6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Conscience_ida5233f64.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ranch_id24c46686.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rampage (2018 film)_id4319bb46.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Megalodon_id39bbc211.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rainbow Serpent_id410a95a5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dickin Medal_id40acdeca.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rabbit_id934bd0a8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dian Fossey_id68b29e54.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Compost_idc776d51d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\James Cromwell_id9ffaed0c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Qesem cave_id91a89e9f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kristen Bell_ide46316a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Leopard gecko_idef245ed4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Common vampire bat_id1404e6a9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pyramid of Sahure_ida0a1a670.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Punishment_id648f05a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Blue duiker_id9d3a0f3a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Farseer trilogy_idc7ca0eac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Genesis creation narrative_ide152aa56.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Frederick Russell Burnham_idb415ddc5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fula people_idc4dfa170.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Birth control_ida5e9b474.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Function (biology)_id4d0fadbc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Functional magnetic resonance imaging_id45ad79fb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cabinet of curiosities_id6cbd9b2b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Genetic diversity_id55cb96a4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mental disorder_idfbb509a8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Kali_id0790b64f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Old World vulture_idb2e7402c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ox_id42276bdb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\In vitro_idd29468eb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ear_id7bcd8a00.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Oyster_id32484ab1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Common eland_idbbe77e19.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Oil spill_idb8d5debc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fur trade_id7029846a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Merit (Buddhism)_id6694dd22.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Commercial fishing_id94d4a949.txt
+K:\TEMP_QVO\datasets\wiki_top50k\California condor_idba8c30a2.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Homosexuality_id244e41a1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lassie (1954 TV series)_id1676972f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chincoteague Pony_id7998fb72.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gluconeogenesis_id0f14cd06.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bramble Cay melomys_id58b72bfb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gut microbiota_id953af316.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Immune system_id1b818a08.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Big five game_idd10ba304.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Homology (biology)_id7eab9da0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lake ecosystem_id49df4a71.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Michael Vick_idce1ac1d0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Microbial mat_iddd0926b3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Jaguar_id555a5479.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Cannabidiol_id577aa0a7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bilateria_id6cf76245.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nutrient_ide9f773a0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Diving reflex_idd8948a8e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Hurricane Florence_ida96e5fa9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Botswana_id373831ae.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Capuchin monkey_id38c6f34a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\North American river otter_id0471cde0.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Coenzyme Q10_idfd69dde7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Diatom_id3380ac09.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Flowering plant_id73ce40a6.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Galápagos Islands_id4e994936.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dicynodont_id94edaafa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Missouri River_id81edc8c8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Indian rhinoceros_id9f59d636.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Native Americans in the United States_id356bf062.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mouse_idfb562c09.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gill_ide2985a3a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mitochondrion_idbeeb62c3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Carnivorous plant_id79feea14.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Border control_id94efbd1b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nitrogen cycle_id5fdfa68a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Land mine_id1185446d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ted Hughes_id7095ab3a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Testicle_id8823a5b9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thalassodromeus_iddabaf6f3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Filter feeder_id17630bbb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Blues Brothers (film)_idd8731114.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Lion Guard_id1a7f2e31.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Lost World_ Jurassic Park_ide593ca5a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\The Rescuers Down Under_id9a369b07.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thiamine deficiency_id94777e10.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Third Temple_id95ee2d76.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thomas Henry Huxley_iddd0cac28.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Thousand Oaks, California_id30776cac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pony_id04b8db61.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tinamou_id94d8a6e4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tissue (biology)_idb88e6959.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Pottery of ancient Greece_ide3553355.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Transformation (genetics)_id260efa24.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bureau of Land Management_id9df03d1b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fertilizer_idac1952c8.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Tropical rainforest_idfbc2c4b4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Denise Richards_idbea45e78.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Uluṟu-Kata Tjuṯa National Park_id0221e22d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Burial_id50fd5c41.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Lichen_idffbccc11.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dire wolf_id514ca028.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vagina_id06117f49.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Felt_idc791025e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Victoria Falls_ida0dac0cf.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Aye-aye_id0c744382.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Vitamin D_id25b2f141.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Avian influenza_idebb42985.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Walrus_id04e2dd7e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Burmese python_id6fb0053b.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Wool_id4f33c26c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Australia (continent)_idcdaea320.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gigantoraptor_idb418c910.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Basal metabolic rate_id5c1b3feb.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dirofilaria immitis_idd54cc09f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Crab_idc3339a4f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Omega-3 fatty acid_ida483c5d4.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Are You Experienced_id71c5bbac.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Guardians of the Galaxy Vol. 2_id362c7ad5.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Memory_idbb897611.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Planet of the Apes_idf0bd5955.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ice Age (2002 film)_idf9abe281.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rattlesnake_id71a1f525.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Maurya Empire_id1ca932b1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Menopause_idbb0baf28.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bridle_id6816a27f.txt
+K:\TEMP_QVO\datasets\wiki_top50k\C. S. Lewis_id9a07d27c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Chillwave_id438d38ab.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rationality_idb24db176.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rhinoceros_idf4851c42.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Mate choice_id16e3888c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Rare-earth element_idb005d664.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Horror film_idb4537d2e.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Keystone species_id2f5376e3.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Gorgosaurus_ide6693888.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ethnography_ida52ebccc.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Subsistence agriculture_idd2588d62.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fungal infection_id777021aa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Apollo_id72877402.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Refrigerator car_idc4d5abef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Nerium_id72d73d6d.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ketamine_idce0e2842.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Behavioural genetics_id6309eea9.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Conservation biology_idb97ada11.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Earth Song_idce2f7037.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Red-tailed hawk_id9e5153ef.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Common Agricultural Policy_id5a98fd5a.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Motor cortex_ide41a6520.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Ethiopian wolf_id266e8a67.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Dee Bradley Baker_idcd6a784c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Coppicing_id3de44f99.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Fairy tale_idfff607b1.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Bhutan_id5ce61e41.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Grand Teton National Park_id85cd419c.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Running of the bulls_id4722e7b7.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Off-label use_ide85d2b63.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Black market_id2218d9aa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Comic strip_id14da2f04.txt
+K:\TEMP_QVO\datasets\wiki_top50k\American Museum of Natural History_idde48f7aa.txt
+K:\TEMP_QVO\datasets\wiki_top50k\Conquistador_id2aee2a7b.txt

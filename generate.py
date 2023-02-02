@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
-from gpt import BigramLanguageModel, decode, model, device, encode, models_path
+from gpt import decode, model, device, encode, models_path
 
 nsamples = 128
 batch_size = 1
