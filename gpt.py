@@ -29,7 +29,6 @@ dropout = 0.2 # dropout rate (probability of zeroing out activations)
 torch.manual_seed(1337)
 
 char_filter_list = None
-def sanitize_text(text: str):
 def sanitize_text(text: str) -> str:
     text = ''.join([c for c in text if c in char_filter_list])
     text.replace("()", "").replace("[]", "").replace("{}", "").replace("<>", "").replace("  ", " ")
