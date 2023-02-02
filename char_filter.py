@@ -1,6 +1,6 @@
 import glob, json
 
-def char_filter(data_path: str) -> tuple(str, list(str)):
+def char_filter(data_path: str):
     """
     Loads all text files from data_path and returns a list of all unique characters
     Also returns a list of texts gathered from the input files
