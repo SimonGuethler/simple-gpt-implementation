@@ -7,22 +7,22 @@ from torch.nn import functional as F
 from char_filter import char_filter
 
 # config
-data_path = './input_wiki_animal'
-data_cache_path = './cache_wiki_animal_610-32.pkl'
-models_path = './models/model_wiki_animal_610-32'
+data_path = './input'
+data_cache_path = './data_cache.pkl'
+models_path = './models/model'
 
 # hyperparameters
 
-batch_size = 32 # how many independent sequences will we process in parallel?
+batch_size = 64 # how many independent sequences will we process in parallel?
 block_size = 256 # what is the maximum context length for predictions?
 eval_interval = 1000 # how often to evaluate the model on train and val sets
-max_iters = 100000
+max_iters = 10000
 learning_rate = 3e-4 # 3e-4 is the default in the original paper 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
-eval_iters = 60 # how many batches to use for evaluation
-n_embd = 720 # embedding size (dimensionality of the hidden state)
-n_head = 10 # number of heads in multi-head attention in pytorch
-n_layer = 10 # number of layers in the transformer model
+eval_iters = 30 # how many batches to use for evaluation
+n_embd = 420 # embedding size (dimensionality of the hidden state)
+n_head = 6 # number of heads in multi-head attention in pytorch
+n_layer = 6 # number of layers in the transformer model
 dropout = 0.2 # dropout rate (probability of zeroing out activations)
 # ------------
 
@@ -30,7 +30,6 @@ torch.manual_seed(1337)
 
 char_filter_list = None
 def sanitize_text(text: str) -> str:
-    """Removes all characters except for ones in char_filter_list, which gets set in read_data()"""
     text = ''.join([c for c in text if c in char_filter_list])
     text.replace("()", "").replace("[]", "").replace("{}", "").replace("<>", "").replace("  ", " ")
     return text
