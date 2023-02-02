@@ -10,9 +10,8 @@ This repository differs from the original in the following ways:
 - Put code used for training and inference into separate scripts
 - Partially added support for training at fp16 percision for decreased memory usage ([source](https://gist.github.com/ajbrock/075c0ca4036dc4d8581990a6e76e07a3))
 - Added code to filter input data by removing characters that don't occurr very often (e.g. chinese characters from english wikipedia dumps)
-- Partially
 
-Many improvements could be made to saving/loading the models, data and parameters, but as this is just a research project, the code is meant to be kept simple. Also there are already a dozen highly optimized implementations of the demonstrated techniques.
+Many improvements could be made to saving/loading the models, data, filters and parameters, but as this is just a research project, the code is meant to be kept simple. Also there exist already a dozen highly optimized implementations of the demonstrated techniques.
 
 ## Setup for NVIDIA GPUs
 
@@ -38,6 +37,12 @@ Additionally, the evaluation results will be used to save the model to model-bes
 To perform sentence completion using the trained network, run
 
     python generate.py
+
+# Finding data to train on
+
+The included input text files contain about 1MB of Shakespeare's words.  
+
+[This repository](https://github.com/TheMcSebi/wikipedia-top-corpus) contains a few preprocessed text-files from relatively recent wikipedia dumps (01/23), all in UTF-8. To keep the network at a reasonable size, filtering obscure characters is mandatory.
 
 # nanogpt-lecture
 
