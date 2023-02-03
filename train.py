@@ -1,7 +1,9 @@
-import os, time
+import os, time, datetime
 import torch
 from gpt import estimate_loss, eval_interval, max_iters, learning_rate, model, model, get_batch, inputdata, models_path
 from optimizer import Adam16
+
+average_power_usage = 550 # watts
 
 # optimizer = Adam16(model.parameters(), lr=learning_rate) # for fp16
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
@@ -38,7 +40,16 @@ for iter in range(max_iters):
         
         torch.save(model.state_dict(), os.path.join(models_path, "model-last.pt"))
         t3 = time.time()
-        print(f"evaluation took {t2-t1:.2f} seconds. model saved in {t3-t2:.2f} seconds. Total time wasted training: {(time.time()-t0)/60:.2f} minutes. ({(time.time()-t0)/60/60*650/1000:.3f} kWh used)")
+        
+        if iter > 0:
+            remaining_time = max_iters/iter*((time.time()-t0)/60/60) # h
+        else:
+            remaining_time = 0.0
+        
+        power_used = (time.time()-t0)/60/60*average_power_usage/1000 # kWh
+        training_time = str(datetime.timedelta(seconds=int(time.time()-t0)))
+        
+        print(f" evaluation took {t2-t1:.2f} seconds. model saved in {t3-t2:.2f} seconds. Total time wasted training: {training_time}, approx. {power_used:.3f} kWh used, remaining time: {remaining_time:.3f} hours.")
 
     # sample a batch of data
     xb, yb = get_batch(inputdata['train'])
@@ -49,12 +60,7 @@ for iter in range(max_iters):
     logits, loss = model(xb, yb) 
     # up until here with first torch autocast, test if it works only at eval time?
     
-    # logits, loss = m(xb, yb)
-    
-    # logits, loss = model(xb, yb)
-    
     # train
-
     optimizer.zero_grad(set_to_none=True)
     loss.backward()
     optimizer.step()
