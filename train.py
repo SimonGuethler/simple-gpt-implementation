@@ -1,11 +1,11 @@
-import os, time, datetime, sys, json
+import os, time, datetime, sys, json, signal
 import torch
 from gpt import gpt
 from optimizer import Adam16
 
 average_power_usage = 550 # watts
 
-models_path = './models/model_wiki_animal_16-720-18-18'
+models_path = './models/model'
 # hyperparameters for training (will be written to the data cache file)
 batch_size = 16 # how many independent sequences will we process in parallel?
 eval_interval = 2000 # how often to evaluate the model on train and val sets
@@ -39,6 +39,19 @@ if "continue" in sys.argv:
     iter_range = range(training_state["iter"], max_iters)
     t0 = time.time() - training_state["time"]
     best_score = training_state["best_score"]
+
+iter = 0
+t2 = 0
+# attach ctrl+c handler
+def signal_handler(sig, frame):
+    torch.save(model.state_dict(), os.path.join(models_path, "model-last.pt"))
+
+    with(open(os.path.join(models_path, "training-state.json"), "w", encoding="utf-8")) as f:
+        json.dump({"iter": iter, "time": int(t2-t0), "best_score": best_score}, f)
+    
+    sys.exit(0)
+signal.signal(signal.SIGINT, signal_handler)
+
 
 for iter in iter_range:
     #with torch.autocast(device_type='cuda', dtype=torch.float16): # for fp16

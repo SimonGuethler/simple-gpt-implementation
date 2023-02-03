@@ -12,7 +12,7 @@ This repository differs from the original in the following ways:
 - Added code to filter input data by removing characters that don't occurr very often (e.g. chinese characters from english wikipedia dumps)
 - Store model parameters and the preprocessed dataset in a pickle file and load them, if available (makes loading the data around 100x faster)
 - Support temperature control when generating text
-- Support for continuation of interrupted training
+- Support for continuation of interrupted training (call train.py with parameter "continue", like `python train.py continue`)
 
 Many improvements could be made to saving/loading the models, data, filters and parameters, but as this is just a research project, the code is meant to be kept simple. Also there exist already a dozen highly optimized implementations of the demonstrated techniques.
 
@@ -56,7 +56,6 @@ Finding the right hyperparameters for the available training setup and dataset i
 The parameters at the head of gpt.py are used in the lecture and are optimized (?) for the Shakespeare texts.  
 
 To overcome VRAM limits, try lowering the batch size. This also means, that the network will converge slower, but that can at least be overcome by patience.
-
 
 ## Finding data to train on
 
