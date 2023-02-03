@@ -42,14 +42,14 @@ for iter in range(max_iters):
         t3 = time.time()
         
         if iter > 0:
-            remaining_time = max_iters/iter*((time.time()-t0)/60/60) # h
+            remaining_time = ((time.time()-t0)/60/60) / iter * (max_iters-iter) # h
         else:
             remaining_time = 0.0
         
         power_used = (time.time()-t0)/60/60*average_power_usage/1000 # kWh
         training_time = str(datetime.timedelta(seconds=int(time.time()-t0)))
         
-        print(f" evaluation took {t2-t1:.2f} seconds. model saved in {t3-t2:.2f} seconds. Total time wasted training: {training_time}, approx. {power_used:.3f} kWh used, remaining time: {remaining_time:.3f} hours.")
+        print(f" evaluation took {t2-t1:.2f} seconds. model saved in {t3-t2:.2f} seconds. Total time wasted training: {training_time}, approx. {power_used:.3f} kWh used, remaining time: {remaining_time:.2f} hours.")
 
     # sample a batch of data
     xb, yb = get_batch(inputdata['train'])
