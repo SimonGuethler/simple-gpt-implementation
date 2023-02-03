@@ -11,16 +11,16 @@ data_path = './input'
 data_cache_path = './data_cache.pkl'
 models_path = './models/model'
 
-# hyperparameters
-
+# hyperparameters for training (will be written to the data cache file)
 batch_size = 64 # how many independent sequences will we process in parallel?
-block_size = 256 # what is the maximum context length for predictions?
-eval_interval = 1000 # how often to evaluate the model on train and val sets
-max_iters = 10000
+eval_interval = 500 # how often to evaluate the model on train and val sets
+max_iters = 5000
 learning_rate = 3e-4 # 3e-4 is the default in the original paper 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
-eval_iters = 30 # how many batches to use for evaluation
-n_embd = 420 # embedding size (dimensionality of the hidden state)
+eval_iters = 200 # how many batches to use for evaluation
+
+block_size = 256 # what is the maximum context length for predictions?
+n_embd = 384 # embedding size (dimensionality of the hidden state)
 n_head = 6 # number of heads in multi-head attention in pytorch
 n_layer = 6 # number of layers in the transformer model
 dropout = 0.2 # dropout rate (probability of zeroing out activations)
@@ -30,6 +30,7 @@ torch.manual_seed(1337)
 
 char_filter_list = None
 def sanitize_text(text: str) -> str:
+    """Removes all characters except for ones in char_filter_list, which gets set in read_data()"""
     text = ''.join([c for c in text if c in char_filter_list])
     text.replace("()", "").replace("[]", "").replace("{}", "").replace("<>", "").replace("  ", " ")
     return text
@@ -75,16 +76,24 @@ loadt1 = time.time()
 if os.path.isfile(data_cache_path):
     with open(data_cache_path, 'rb') as fp:
         data = pickle.load(fp)
+        n_embd = data["n_embd"]
+        n_head = data["n_head"]
+        n_layer = data["n_layer"]
+        dropout = data["n_dropout"]
         print("pickle", end=" ")
 else:
     data = read_data(data_path)
+    data["n_embd"] = n_embd
+    data["n_head"] = n_head
+    data["n_layer"] = n_layer
+    data["n_dropout"] = dropout
     with open(data_cache_path, 'wb') as fp:
         pickle.dump(data, fp)
         print("txt", end=" ")
 
 loadt2 = time.time()
 print(f"data load time: {loadt2-loadt1:.2f} seconds")
-
+print(f"model params: {n_layer} layers, {n_head} heads, {n_embd} embedding size, {dropout} dropout")
 vocab_size = data["vocab_size"]
 stoi = data["stoi"]
 itos = data["itos"]
