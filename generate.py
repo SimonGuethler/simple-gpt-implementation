@@ -5,7 +5,7 @@ from gpt import gpt
 
 nsamples = 128
 batch_size = 4
-model_path = gpt.models_path + "/model-last.pt"
+model_path = './models/model_wiki/model-best-val.pt'
 
 
 # initialize model
