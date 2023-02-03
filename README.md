@@ -11,6 +11,8 @@ This repository differs from the original in the following ways:
 - Partially added support for training at fp16 percision for decreased memory usage ([source](https://gist.github.com/ajbrock/075c0ca4036dc4d8581990a6e76e07a3))
 - Added code to filter input data by removing characters that don't occurr very often (e.g. chinese characters from english wikipedia dumps)
 - Store model parameters and the preprocessed dataset in a pickle file and load them, if available (makes loading the data around 100x faster)
+- Support temperature control when generating text
+- Support for continuation of interrupted training
 
 Many improvements could be made to saving/loading the models, data, filters and parameters, but as this is just a research project, the code is meant to be kept simple. Also there exist already a dozen highly optimized implementations of the demonstrated techniques.
 

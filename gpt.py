@@ -9,16 +9,9 @@ from char_filter import char_filter
 # config
 data_path = './input'
 data_cache_path = './data_cache.pkl'
-models_path = './models/model'
+# ------------
 
-# hyperparameters for training (will be written to the data cache file)
-batch_size = 64 # how many independent sequences will we process in parallel?
-eval_interval = 500 # how often to evaluate the model on train and val sets
-max_iters = 5000
-learning_rate = 3e-4 # 3e-4 is the default in the original paper 
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
-eval_iters = 200 # how many batches to use for evaluation
-
+# model parameters
 block_size = 256 # what is the maximum context length for predictions?
 n_embd = 384 # embedding size (dimensionality of the hidden state)
 n_head = 6 # number of heads in multi-head attention in pytorch
@@ -72,69 +65,11 @@ def read_data(path: str) -> dict:
     val_data = data[n:]
     return {"train_data": train_data, "val_data": val_data, "vocab_size": vocab_size, "stoi": stoi, "itos": itos}
 
-loadt1 = time.time()
-if os.path.isfile(data_cache_path):
-    with open(data_cache_path, 'rb') as fp:
-        data = pickle.load(fp)
-        n_embd = data["n_embd"]
-        n_head = data["n_head"]
-        n_layer = data["n_layer"]
-        dropout = data["n_dropout"]
-        print("pickle", end=" ")
-else:
-    data = read_data(data_path)
-    data["n_embd"] = n_embd
-    data["n_head"] = n_head
-    data["n_layer"] = n_layer
-    data["n_dropout"] = dropout
-    with open(data_cache_path, 'wb') as fp:
-        pickle.dump(data, fp)
-        print("txt", end=" ")
-
-loadt2 = time.time()
-print(f"data load time: {loadt2-loadt1:.2f} seconds")
-print(f"model params: {n_layer} layers, {n_head} heads, {n_embd} embedding size, {dropout} dropout")
-vocab_size = data["vocab_size"]
-stoi = data["stoi"]
-itos = data["itos"]
-
-encode = lambda s: [stoi[c] for c in s] # encoder: take a string, output a list of integers
-decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
-
-inputdata = { 'train': data["train_data"], 'val': data["val_data"] }
-print("train:", len(inputdata["train"]), "val:", len(inputdata["val"]), "vocab:", vocab_size)
-
-model = None
-m = None
-
-# data loading
-def get_batch(data):
-    # generate a small batch of data of inputs x and targets y
-    ix = torch.randint(len(data) - block_size, (batch_size,))
-    x = torch.stack([data[i:i+block_size] for i in ix])
-    y = torch.stack([data[i+1:i+block_size+1] for i in ix])
-    x, y = x.to(device), y.to(device)
-    return x, y
-
-@torch.no_grad()
-def estimate_loss():
-    global model, m
-    out = {}
-    model.eval()
-    for split in ['train', 'val']:
-        losses = torch.zeros(eval_iters)
-        for k in range(eval_iters):
-            X, Y = get_batch(inputdata[split])
-            logits, loss = model(X, Y)
-            losses[k] = loss.item()
-        out[split] = losses.mean()
-    model.train()
-    return out
 
 class Head(nn.Module):
     """ one head of self-attention """
 
-    def __init__(self, head_size):
+    def __init__(self, head_size, n_embd, dropout, block_size):
         super().__init__()
         self.key = nn.Linear(n_embd, head_size, bias=False)
         self.query = nn.Linear(n_embd, head_size, bias=False)
@@ -160,9 +95,9 @@ class Head(nn.Module):
 class MultiHeadAttention(nn.Module):
     """ multiple heads of self-attention in parallel """
 
-    def __init__(self, num_heads, head_size):
+    def __init__(self, n_head, head_size, n_embd, dropout, block_size):
         super().__init__()
-        self.heads = nn.ModuleList([Head(head_size) for _ in range(num_heads)])
+        self.heads = nn.ModuleList([Head(head_size, n_embd, dropout, block_size) for _ in range(n_head)])
         self.proj = nn.Linear(n_embd, n_embd)
         self.dropout = nn.Dropout(dropout)
 
@@ -174,7 +109,7 @@ class MultiHeadAttention(nn.Module):
 class FeedFoward(nn.Module):
     """ a simple linear layer followed by a non-linearity """
 
-    def __init__(self, n_embd):
+    def __init__(self, n_embd, dropout):
         super().__init__()
         self.net = nn.Sequential(
             nn.Linear(n_embd, 4 * n_embd),
@@ -189,12 +124,12 @@ class FeedFoward(nn.Module):
 class Block(nn.Module):
     """ Transformer block: communication followed by computation """
 
-    def __init__(self, n_embd, n_head):
+    def __init__(self, n_embd, n_head, dropout, block_size):
         # n_embd: embedding dimension, n_head: the number of heads we'd like
         super().__init__()
         head_size = n_embd // n_head
-        self.sa = MultiHeadAttention(n_head, head_size)
-        self.ffwd = FeedFoward(n_embd)
+        self.sa = MultiHeadAttention(n_head, head_size, n_embd, dropout, block_size)
+        self.ffwd = FeedFoward(n_embd, dropout)
         self.ln1 = nn.LayerNorm(n_embd)
         self.ln2 = nn.LayerNorm(n_embd)
 
@@ -205,21 +140,23 @@ class Block(nn.Module):
 
 class GPTLanguageModel(nn.Module):
 
-    def __init__(self):
+    def __init__(self, n_embd, n_head, n_layer, vocab_size, dropout, block_size, device):
         super().__init__()
         # each token directly reads off the logits for the next token from a lookup table
         self.token_embedding_table = nn.Embedding(vocab_size, n_embd)
         self.position_embedding_table = nn.Embedding(block_size, n_embd)
-        self.blocks = nn.Sequential(*[Block(n_embd, n_head=n_head) for _ in range(n_layer)])
+        self.blocks = nn.Sequential(*[Block(n_embd, n_head, dropout, block_size) for _ in range(n_layer)])
         self.ln_f = nn.LayerNorm(n_embd) # final layer norm
         self.lm_head = nn.Linear(n_embd, vocab_size)
+        self.device = device
+        self.block_size = block_size
 
     def forward(self, idx, targets=None):
         B, T = idx.shape
 
         # idx and targets are both (B,T) tensor of integers
         tok_emb = self.token_embedding_table(idx) # (B,T,C)
-        pos_emb = self.position_embedding_table(torch.arange(T, device=device)) # (T,C)
+        pos_emb = self.position_embedding_table(torch.arange(T, device=self.device)) # (T,C)
         x = tok_emb + pos_emb # (B,T,C)
         x = self.blocks(x) # (B,T,C)
         x = self.ln_f(x) # (B,T,C)
@@ -235,18 +172,18 @@ class GPTLanguageModel(nn.Module):
 
         return logits, loss
 
-    def top_k_logits(logits, k):
+    def top_k_logits(logits, k) -> torch.Tensor:
         if k == 0:
             return logits
         values, _ = torch.topk(logits, k)
         min_values = values[:, -1]
         return torch.where(logits < min_values, torch.ones_like(logits, dtype=logits.dtype) * -1e10, logits)
         
-    def generate(self, idx, max_new_tokens, temperature: float = 1.0, top_k: int = 0):
+    def generate(self, idx, max_new_tokens, temperature: float = 1.0, top_k: int = 0) -> torch.Tensor:
         # idx is (B, T) array of indices in the current context
         for _ in range(max_new_tokens):
             # crop idx to the last block_size tokens
-            idx_cond = idx[:, -block_size:]
+            idx_cond = idx[:, -self.block_size:]
             # get the predictions
             logits, loss = self(idx_cond)
             # focus only on the last time step
@@ -261,9 +198,102 @@ class GPTLanguageModel(nn.Module):
             idx = torch.cat((idx, idx_next), dim=1) # (B, T+1)
         return idx
 
-#m = model.half().to(device) # for fp16
-model = GPTLanguageModel()
-m = model.to(device)
+class GPT:
+    def __init__(self, data_path, data_cache_path, block_size, n_embd: int = None, n_head: int = None, n_layer: int = None, dropout: float = None):
+        self.data_path = data_path
+        self.data_cache_path = data_cache_path
+        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
+        self.block_size = block_size
 
-# print the number of parameters in the model
-print(sum(p.numel() for p in m.parameters())/1e6, 'M parameters')
+        loadt1 = time.time()
+        if os.path.isfile(self.data_cache_path):
+            with open(self.data_cache_path, 'rb') as fp:
+                data = pickle.load(fp)
+                n_embd = data["n_embd"]
+                n_head = data["n_head"]
+                n_layer = data["n_layer"]
+                dropout = data["n_dropout"]
+                print("pickle", end=" ")
+        else:
+            if not all([n_embd, n_head, n_layer, dropout]):
+                raise ValueError("Must specify all of n_embd, n_head, n_layer, dropout when training on new data")
+            data = read_data(self.data_path)
+            data["n_embd"] = n_embd
+            data["n_head"] = n_head
+            data["n_layer"] = n_layer
+            data["n_dropout"] = dropout
+            with open(self.data_cache_path, 'wb') as fp:
+                pickle.dump(data, fp)
+                print("txt", end=" ")
+        
+        loadt2 = time.time()
+        print(f"data load time: {loadt2-loadt1:.2f} seconds")
+        print(f"model params: {n_layer} layers, {n_head} heads, {n_embd} embedding size, {dropout} dropout")
+
+        self.n_embd = n_embd
+        self.n_head = n_head
+        self.n_layer = n_layer
+        self.dropout = dropout
+        self.vocab_size = data["vocab_size"]
+        stoi = data["stoi"]
+        itos = data["itos"]
+        
+
+        self.encode = lambda s: [stoi[c] for c in s] # encoder: take a string, output a list of integers
+        self.decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
+
+        self.inputdata = { 'train': data["train_data"], 'val': data["val_data"] }
+        print("train:", len(self.inputdata["train"]), "val:", len(self.inputdata["val"]), "vocab:", self.vocab_size)
+
+        self.model = None
+
+    # data loading
+    def get_batch(self, set_name: str, batch_size: int):
+        # generate a small batch of data of inputs x and targets y
+        ix = torch.randint(len(self.inputdata[set_name]) - self.block_size, (batch_size,))
+        x = torch.stack([self.inputdata[set_name][i:i+self.block_size] for i in ix])
+        y = torch.stack([self.inputdata[set_name][i+1:i+self.block_size+1] for i in ix])
+        x, y = x.to(self.device), y.to(self.device)
+        return x, y
+
+    @torch.no_grad()
+    def estimate_loss(self, eval_iters: int, batch_size: int):
+        out = {}
+        self.model.eval()
+        for split in ['train', 'val']:
+            losses = torch.zeros(eval_iters)
+            for k in range(eval_iters):
+                X, Y = self.get_batch(split, batch_size=batch_size)
+                logits, loss = self.model(X, Y)
+                losses[k] = loss.item()
+            out[split] = losses.mean()
+        self.model.train()
+        return out
+    
+    def get_model(self, gpu: bool = True) -> GPTLanguageModel:
+        if self.model is None:
+            self.model = GPTLanguageModel(
+                n_embd=self.n_embd,
+                n_head=self.n_head,
+                n_layer=self.n_layer,
+                vocab_size=self.vocab_size,
+                dropout=self.dropout,
+                block_size=self.block_size,
+                device=self.device
+            )
+            # print the number of parameters in the model
+            print('initialized gpt model with', sum(p.numel() for p in self.model.parameters())/1e6, 'M parameters')
+            if gpu:
+                self.model = self.model.to(self.device)
+                #model = model.half().to(device) # for fp16
+        return self.model
+
+gpt = GPT(
+    data_path=data_path,
+    data_cache_path=data_cache_path,
+    block_size=block_size,
+    n_embd=n_embd,
+    n_head=n_head,
+    n_layer=n_layer,
+    dropout=dropout
+)

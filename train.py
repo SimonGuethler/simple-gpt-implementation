@@ -1,28 +1,53 @@
-import os, time, datetime
+import os, time, datetime, sys, json
 import torch
-from gpt import estimate_loss, eval_interval, max_iters, learning_rate, model, model, get_batch, inputdata, models_path
+from gpt import gpt
 from optimizer import Adam16
 
 average_power_usage = 550 # watts
+
+models_path = './models/model_wiki_animal_16-720-18-18'
+# hyperparameters for training (will be written to the data cache file)
+batch_size = 16 # how many independent sequences will we process in parallel?
+eval_interval = 2000 # how often to evaluate the model on train and val sets
+max_iters = 200_000
+learning_rate = 3e-4 # 3e-4 is the default in the original paper 
+eval_iters = 200 # how many batches to use for evaluation
+# --------------------------------
+
+
+model = gpt.get_model()
+model.train()
 
 # optimizer = Adam16(model.parameters(), lr=learning_rate) # for fp16
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 # scaler = torch.cuda.amp.GradScaler()
 
-
 if not os.path.isdir(models_path):
-    os.makedirs(models_path) 
+    os.makedirs(models_path)
+
 
 t0 = time.time()
 best_score = None
-for iter in range(max_iters):
+
+iter_range = range(max_iters)
+
+# resume training
+if "continue" in sys.argv:
+    model.load_state_dict(torch.load(os.path.join(models_path, "model-last.pt")))
+    with open(os.path.join(models_path, "training-state.json"), "r", encoding="utf-8") as f:
+        training_state = json.load(f)
+    iter_range = range(training_state["iter"], max_iters)
+    t0 = time.time() - training_state["time"]
+    best_score = training_state["best_score"]
+
+for iter in iter_range:
     #with torch.autocast(device_type='cuda', dtype=torch.float16): # for fp16
     # every once in a while evaluate the loss on train and val sets
     if iter % eval_interval == 0 or iter == max_iters - 1:
 
         t1 = time.time()
         # with torch.autocast(device_type='cuda', dtype=torch.float16): # for fp16?
-        score = estimate_loss()
+        score = gpt.estimate_loss(eval_iters=eval_iters, batch_size=batch_size)
         t2 = time.time()
 
         if best_score is None:
@@ -39,6 +64,10 @@ for iter in range(max_iters):
             best_score["val"] = score["val"]
         
         torch.save(model.state_dict(), os.path.join(models_path, "model-last.pt"))
+
+        with(open(os.path.join(models_path, "training-state.json"), "w", encoding="utf-8")) as f:
+            json.dump({"iter": iter, "time": int(t2-t0), "best_score": best_score}, f)
+        
         t3 = time.time()
         
         if iter > 0:
@@ -52,7 +81,7 @@ for iter in range(max_iters):
         print(f" evaluation took {t2-t1:.2f} seconds. model saved in {t3-t2:.2f} seconds. Total time wasted training: {training_time}, approx. {power_used:.3f} kWh used, remaining time: {remaining_time:.2f} hours.")
 
     # sample a batch of data
-    xb, yb = get_batch(inputdata['train'])
+    xb, yb = gpt.get_batch("train", batch_size=batch_size)
 
     # evaluate the loss
 

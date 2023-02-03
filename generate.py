@@ -1,21 +1,25 @@
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
-from gpt import decode, model, device, encode, models_path
+from gpt import gpt 
 
 nsamples = 128
 batch_size = 4
-model_path = models_path + "/model-last.pt"
-# load model from file
+model_path = gpt.models_path + "/model-last.pt"
+
+
+# initialize model
+model = gpt.get_model()
+# load checkpoint from file
 model.load_state_dict(torch.load(model_path))
 
 print("model loaded")
 
 # generate from the model
-context = encode("Animals can be categorized into vertebrates and ")
+context = gpt.encode("Animals can be categorized into vertebrates and ")
 
-context = torch.tensor(context, device=device).unsqueeze(0).repeat(batch_size, 1)
+context = torch.tensor(context, device=gpt.device).unsqueeze(0).repeat(batch_size, 1)
 generated = model.generate(context, max_new_tokens=nsamples, temperature=0.7)
 for result in generated:
-    response = decode(result.tolist())
+    response = gpt.decode(result.tolist())
     print(response, end="\n\n")
