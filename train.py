@@ -42,15 +42,21 @@ if "continue" in sys.argv:
 
 iter = 0
 t2 = 0
+
+def save_last_checkpoint(suffix: str = "last"):
+    """ Saves the model and training state to disk """
+    torch.save(model.state_dict(), os.path.join(models_path, f"model-{suffix}.pt"))
+    if suffix == "last":
+        with(open(os.path.join(models_path, "training-state.json"), "w", encoding="utf-8")) as f:
+            json.dump({"iter": iter, "time": int(t2-t0), "best_score": {"train": float(best_score["train"]), "val": float(best_score["val"])}}, f, indent=4)
+
 # attach ctrl+c handler
 def signal_handler(sig, frame):
-    torch.save(model.state_dict(), os.path.join(models_path, "model-last.pt"))
-
-    with(open(os.path.join(models_path, "training-state.json"), "w", encoding="utf-8")) as f:
-        json.dump({"iter": iter, "time": int(t2-t0), "best_score": best_score}, f)
-    
+    """ Catches Ctrl+C and saves the model, then quits """
+    save_last_checkpoint()    
     sys.exit(0)
 signal.signal(signal.SIGINT, signal_handler)
+
 
 
 for iter in iter_range:
@@ -69,17 +75,14 @@ for iter in iter_range:
         print(f"step {iter}: train loss {score['train']:.4f}, val loss {score['val']:.4f}")
         
         if score["train"] < best_score["train"]:
-            torch.save(model.state_dict(), os.path.join(models_path, "model-best-train.pt"))
+            save_last_checkpoint("best-train")
             best_score["train"] = score["train"]
         
         if score["val"] < best_score["val"]:
-            torch.save(model.state_dict(), os.path.join(models_path, "model-best-val.pt"))
+            save_last_checkpoint("best-val")
             best_score["val"] = score["val"]
         
-        torch.save(model.state_dict(), os.path.join(models_path, "model-last.pt"))
-
-        with(open(os.path.join(models_path, "training-state.json"), "w", encoding="utf-8")) as f:
-            json.dump({"iter": iter, "time": int(t2-t0), "best_score": best_score}, f)
+        save_last_checkpoint()
         
         t3 = time.time()
         
