@@ -10,6 +10,7 @@ This repository differs from the original in the following ways:
 - Put code used for training and inference into separate scripts
 - Partially added support for training at fp16 percision for decreased memory usage ([source](https://gist.github.com/ajbrock/075c0ca4036dc4d8581990a6e76e07a3))
 - Added code to filter input data by removing characters that don't occurr very often (e.g. chinese characters from english wikipedia dumps)
+- Store model parameters and the preprocessed dataset in a pickle file and load them, if available (makes loading the data around 100x faster)
 
 Many improvements could be made to saving/loading the models, data, filters and parameters, but as this is just a research project, the code is meant to be kept simple. Also there exist already a dozen highly optimized implementations of the demonstrated techniques.
 
@@ -38,7 +39,24 @@ To perform sentence completion using the trained network, run
 
     python generate.py
 
-# Finding data to train on
+## Parameters
+
+Finding the right hyperparameters for the available training setup and dataset is crucial for efficiency and effectivity. I personally found the following setup to work decent on an RTX 3080 Ti training on about 50mb of mostly topic-specific wikipedia dumps (containing 149 different characters):
+
+    batch_size = 16
+
+    block_size = 256
+    n_embd = 720
+    n_head = 18
+    n_layer = 18
+    dropout = 0.2
+
+The parameters at the head of gpt.py are used in the lecture and are optimized (?) for the Shakespeare texts.  
+
+To overcome VRAM limits, try lowering the batch size. This also means, that the network will converge slower, but that can at least be overcome by patience.
+
+
+## Finding data to train on
 
 The included input text files contain about 1MB of Shakespeare's words.  
 
